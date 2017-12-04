@@ -4,306 +4,382 @@ graph [
   node [
     id 0
     label "Ottawa Fury"
+    competition "NASL Fall Championship"
   ]
   node [
     id 1
     label "Fort Lauderdale"
+    competition "NASL Fall Championship"
   ]
   node [
     id 2
     label "Eskisehirspor"
+    competition "S&#252;per Lig"
   ]
   node [
     id 3
     label "Trabzonspor"
+    competition "S&#252;per Lig"
   ]
   node [
     id 4
     label "New York Cosmos"
+    competition "NASL Fall Championship"
   ]
   node [
     id 5
     label "Philadelphia"
+    competition "Major League Soccer"
   ]
   node [
     id 6
     label "FC Dallas&#9;"
+    competition "Major League Soccer"
   ]
   node [
     id 7
     label "TB Rowdies"
+    competition "NASL Fall Championship"
   ]
   node [
     id 8
     label "San Antonio "
+    competition "NASL Fall Championship"
   ]
   node [
     id 9
     label "Los Angeles"
+    competition "Major League Soccer"
   ]
   node [
     id 10
     label "Colorado"
+    competition "Major League Soccer"
   ]
   node [
     id 11
     label "Revolution"
+    competition "Major League Soccer"
   ]
   node [
     id 12
     label "Toronto FC"
+    competition "Major League Soccer"
   ]
   node [
     id 13
     label "Vancouver"
+    competition "Major League Soccer"
   ]
   node [
     id 14
     label "Balzan FC"
+    competition "Premier League"
   ]
   node [
     id 15
     label "Birkirkara FC"
+    competition "Premier League"
   ]
   node [
     id 16
     label "Salt Lake"
+    competition "Major League Soccer"
   ]
   node [
     id 17
     label "DC United"
+    competition "Major League Soccer"
   ]
   node [
     id 18
     label "Houston"
+    competition "Major League Soccer"
   ]
   node [
     id 19
     label "Admira Wacker"
+    competition "Bundesliga"
   ]
   node [
     id 20
     label "SKN St. P&#246;lten"
+    competition "Erste Liga"
   ]
   node [
     id 21
     label "Wolfsberger AC"
+    competition "Bundesliga"
   ]
   node [
     id 22
     label "J'ville Armada"
+    competition "NASL Fall Championship"
   ]
   node [
     id 23
     label "FC Edmonton"
+    competition "NASL Fall Championship"
   ]
   node [
     id 24
     label "Defensa"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 25
     label "Independiente"
+    competition "Serie A Segunda Etapa"
   ]
   node [
     id 26
     label "Kansas"
+    competition "Major League Soccer"
   ]
   node [
     id 27
     label "Orlando City SC"
+    competition "Major League Soccer"
   ]
   node [
     id 28
     label "Montreal Impact"
+    competition "Major League Soccer"
   ]
   node [
     id 29
     label "Santos"
+    competition "Liga MX Clausura"
   ]
   node [
     id 30
     label "Am&#233;rica"
+    competition "Liga MX Clausura"
   ]
   node [
     id 31
     label "Esperance"
+    competition "Ligue Professionelle 1"
   ]
   node [
     id 32
     label "Stade Tunisien"
+    competition "Ligue Professionelle 1"
   ]
   node [
     id 33
     label "Akhisarspor"
+    competition "S&#252;per Lig"
   ]
   node [
     id 34
     label "Karab&#252;kspor"
+    competition "1.Lig"
   ]
   node [
     id 35
     label "Timbers"
+    competition "Major League Soccer"
   ]
   node [
     id 36
     label "Cape Town City"
+    competition "ABSA Premiership"
   ]
   node [
     id 37
     label "SuperSport Utd."
+    competition "ABSA Premiership"
   ]
   node [
     id 38
     label "Willem II"
+    competition "Eredivisie"
   ]
   node [
     id 39
     label "AFC Ajax"
+    competition "Eredivisie"
   ]
   node [
     id 40
     label "HNK Rijeka"
+    competition "1.HNL"
   ]
   node [
     id 41
     label "Dinamo Zagreb"
+    competition "1.HNL"
   ]
   node [
     id 42
     label "Fulham"
+    competition "Championship"
   ]
   node [
     id 43
     label "Cardiff"
+    competition "Championship"
   ]
   node [
     id 44
     label "Bursaspor"
+    competition "S&#252;per Lig"
   ]
   node [
     id 45
     label "Galatasaray"
+    competition "S&#252;per Lig"
   ]
   node [
     id 46
     label "CC Yatai"
+    competition "Chinese Super League"
   ]
   node [
     id 47
     label "HN Jianye"
+    competition "Chinese Super League"
   ]
   node [
     id 48
     label "Al-Kharitiyat"
+    competition "Qatar Stars League"
   ]
   node [
     id 49
     label "El-Jaish"
+    competition "Qatar Stars League"
   ]
   node [
     id 50
     label "Ischia"
+    competition "Prima Divisione - Girone C"
   ]
   node [
     id 51
     label "Lumezzane"
+    competition "Prima Divisione - A"
   ]
   node [
     id 52
     label "NYCFC"
+    competition "Major League Soccer"
   ]
   node [
     id 53
     label "Chicago Fire"
+    competition "Major League Soccer"
   ]
   node [
     id 54
     label "Sounders FC 2"
+    competition "USL Pro"
   ]
   node [
     id 55
     label "Wilmington"
+    competition "USL Pro"
   ]
   node [
     id 56
     label "Sliema Wander."
+    competition "Premier League"
   ]
   node [
     id 57
     label "Valletta"
+    competition "Premier League"
   ]
   node [
     id 58
     label "Columbus Crew"
+    competition "Major League Soccer"
   ]
   node [
     id 59
     label "Quakes"
+    competition "Major League Soccer"
   ]
   node [
     id 60
     label "Kaizer Chiefs"
+    competition "ABSA Premiership"
   ]
   node [
     id 61
     label "Sporting CP"
+    competition "Primeira Liga"
   ]
   node [
     id 62
     label "TJ Teda"
+    competition "Chinese Super League"
   ]
   node [
     id 63
     label "Celtic"
+    competition "Scottish Premiership"
   ]
   node [
     id 64
     label "Hibernian FC"
+    competition "Scottish Championship"
   ]
   node [
     id 65
     label "Vasas FC"
+    competition "Nemzeti Bajnoks&#225;g II"
   ]
   node [
     id 66
     label "Debrecen"
+    competition "Nemzeti Bajnoks&#225;g"
   ]
   node [
     id 67
     label "Internacional"
+    competition "Campeonato Brasileiro S&#233;rie A"
   ]
   node [
     id 68
     label "Cruzeiro"
+    competition "Campeonato Brasileiro S&#233;rie A"
   ]
   node [
     id 69
     label "NY Red Bulls"
+    competition "Major League Soccer"
   ]
   node [
     id 70
     label "Br&#246;ndby IF"
+    competition "Superligaen"
   ]
   node [
     id 71
     label "FC Midtjylland"
+    competition "Superligaen"
   ]
   node [
     id 72
     label "Sundowns"
+    competition "ABSA Premiership"
   ]
   node [
     id 73
     label "Bidvest Wits FC"
+    competition "ABSA Premiership"
   ]
   node [
     id 74
     label "Golden Arrows"
+    competition "ABSA Premiership"
   ]
   node [
     id 75
     label "Bloemfontein C."
+    competition "ABSA Premiership"
   ]
   edge [
     source 0

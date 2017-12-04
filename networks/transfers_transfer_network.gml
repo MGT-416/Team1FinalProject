@@ -4,4498 +4,5622 @@ graph [
   node [
     id 0
     label "Start"
+    competition "Tippeligaen"
   ]
   node [
     id 1
     label "Rosenborg BK"
+    competition "Tippeligaen"
   ]
   node [
     id 2
     label "Celtic"
+    competition "Scottish Premiership"
   ]
   node [
     id 3
     label "Metalist"
+    competition "Premier Liga"
   ]
   node [
     id 4
     label "Besiktas"
+    competition "S&#252;per Lig"
   ]
   node [
     id 5
     label "Fluminense"
+    competition "Campeonato Brasileiro S&#233;rie A"
   ]
   node [
     id 6
     label "CA Tucum&#225;n"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 7
     label "CA Hurac&#225;n"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 8
     label "FC Metz"
+    competition "Ligue 1"
   ]
   node [
     id 9
     label "Olympique Lyon"
+    competition "Ligue 1"
   ]
   node [
     id 10
     label "CS Sfaxien"
+    competition "Ligue Professionelle 1"
   ]
   node [
     id 11
     label "Esperance"
+    competition "Ligue Professionelle 1"
   ]
   node [
     id 12
     label "Marseille"
+    competition "Ligue 1"
   ]
   node [
     id 13
     label "1.FSV Mainz 05"
+    competition "1.Bundesliga"
   ]
   node [
     id 14
     label "Racing Club"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 15
     label "Club Tijuana"
+    competition "Liga MX Clausura"
   ]
   node [
     id 16
     label "River Plate"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 17
     label "S&#227;o Paulo"
+    competition "Campeonato Brasileiro S&#233;rie A"
   ]
   node [
     id 18
     label "Defensa"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 19
     label "CA Banfield"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 20
     label "Atlas"
+    competition "Liga MX Clausura"
   ]
   node [
     id 21
     label "Gimnasia"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 22
     label "Belgrano"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 23
     label "Aldosivi"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 24
     label "JS Suning"
+    competition "Chinese Super League"
   ]
   node [
     id 25
     label "Santos"
+    competition "Liga MX Clausura"
   ]
   node [
     id 26
     label "Levante UD"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 27
     label "Scunthorpe Utd."
+    competition "League One"
   ]
   node [
     id 28
     label "FC Oss"
+    competition "Jupiler League"
   ]
   node [
     id 29
     label "Wycombe"
+    competition "League Two"
   ]
   node [
     id 30
     label "QPR"
+    competition "Premier League"
   ]
   node [
     id 31
     label "GKS Belchatow"
+    competition "Ekstraklasa"
   ]
   node [
     id 32
     label "Legia Warszawa"
+    competition "Ekstraklasa"
   ]
   node [
     id 33
     label "Lechia Gdansk"
+    competition "Ekstraklasa"
   ]
   node [
     id 34
     label "RC R&#233;lizane"
+    competition "Ligue Professionnelle 1"
   ]
   node [
     id 35
     label "Al-Shahania"
+    competition "Qatar Stars League Relegation"
   ]
   node [
     id 36
     label "Zlate Moravce"
+    competition "Corgon liga"
   ]
   node [
     id 37
     label "NK Domzale"
+    competition "Prva Liga"
   ]
   node [
     id 38
     label "Coventry City"
+    competition "League One"
   ]
   node [
     id 39
     label "Leyton Orient"
+    competition "League Two"
   ]
   node [
     id 40
     label "Norwich"
+    competition "Championship"
   ]
   node [
     id 41
     label "Inverness Cal."
+    competition "Scottish Premiership"
   ]
   node [
     id 42
     label "Wigan"
+    competition "Championship"
   ]
   node [
     id 43
     label "Spartak"
+    competition "SuperLiga"
   ]
   node [
     id 44
     label "Red Star"
+    competition "SuperLiga"
   ]
   node [
     id 45
     label "Rabotnicki"
+    competition "Prva Makedonska Fudbalska Liga"
   ]
   node [
     id 46
     label "Vardar"
+    competition "Prva Makedonska Fudbalska Liga"
   ]
   node [
     id 47
     label "CA Talleres"
+    competition "Primera B Nacional"
   ]
   node [
     id 48
     label "Rafaela"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 49
     label "Nueva Chicago"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 50
     label "Boca Juniors"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 51
     label "Chacarita Jrs"
+    competition "Primera B Nacional"
   ]
   node [
     id 52
     label "Cherno More"
+    competition "A Grupa - Relegation group"
   ]
   node [
     id 53
     label "Levski Sofia"
+    competition "A Grupa - Relegation group"
   ]
   node [
     id 54
     label "CSKA Sofia"
+    competition "A Grupa - Championship group"
   ]
   node [
     id 55
     label "Sheff Wed"
+    competition "Championship"
   ]
   node [
     id 56
     label "Wisla Plock"
+    competition "1 Liga"
   ]
   node [
     id 57
     label "J. Bialystok"
+    competition "Ekstraklasa"
   ]
   node [
     id 58
     label "Pogon Szczecin"
+    competition "Ekstraklasa"
   ]
   node [
     id 59
     label "Podbeskidzie"
+    competition "Ekstraklasa"
   ]
   node [
     id 60
     label "FC K&#246;niz"
+    competition "1.Liga Promotion "
   ]
   node [
     id 61
     label "FC Vaduz"
+    competition "Raiffeisen Super League"
   ]
   node [
     id 62
     label "Antalyaspor"
+    competition "1.Lig"
   ]
   node [
     id 63
     label "Sivasspor"
+    competition "S&#252;per Lig"
   ]
   node [
     id 64
     label "Fenerbahce"
+    competition "S&#252;per Lig"
   ]
   node [
     id 65
     label "Coritiba FC"
+    competition "Campeonato Brasileiro S&#233;rie A"
   ]
   node [
     id 66
     label "Zeljeznicar"
+    competition "Premijer Liga"
   ]
   node [
     id 67
     label "Corinthians"
+    competition "Campeonato Brasileiro S&#233;rie A"
   ]
   node [
     id 68
     label "Altinordu"
+    competition "1.Lig"
   ]
   node [
     id 69
     label "FK Bod&#248;/Glimt"
+    competition "Tippeligaen"
   ]
   node [
     id 70
     label "Di&#243;sgy&#337;r"
+    competition "Nemzeti Bajnoks&#225;g"
   ]
   node [
     id 71
     label "Lech Poznan"
+    competition "Ekstraklasa"
   ]
   node [
     id 72
     label "Eskisehirspor"
+    competition "S&#252;per Lig"
   ]
   node [
     id 73
     label "Trabzonspor"
+    competition "S&#252;per Lig"
   ]
   node [
     id 74
     label "Grasshoppers"
+    competition "Raiffeisen Super League"
   ]
   node [
     id 75
     label "Sturm Graz"
+    competition "Bundesliga"
   ]
   node [
     id 76
     label "Aydinspor 1923"
+    competition "2.Lig Beyaz"
   ]
   node [
     id 77
     label "Al-Wahda FC"
+    competition "UAE Arabian Gulf League"
   ]
   node [
     id 78
     label "Bursaspor"
+    competition "S&#252;per Lig"
   ]
   node [
     id 79
     label "Gaish"
+    competition "Egyptian Premier League"
   ]
   node [
     id 80
     label "El Masry"
+    competition "Egyptian Premier League"
   ]
   node [
     id 81
     label "Zamalek"
+    competition "Egyptian Premier League"
   ]
   node [
     id 82
     label "Wisla Krak&#243;w"
+    competition "Ekstraklasa"
   ]
   node [
     id 83
     label "Grudziadz"
+    competition "1 Liga"
   ]
   node [
     id 84
     label "GKS Katowice"
+    competition "1 Liga"
   ]
   node [
     id 85
     label "Piast Gliwice"
+    competition "Ekstraklasa"
   ]
   node [
     id 86
     label "Slaven Belupo"
+    competition "1.HNL"
   ]
   node [
     id 87
     label "Alanyaspor"
+    competition "1.Lig"
   ]
   node [
     id 88
     label "FK Haugesund"
+    competition "Tippeligaen"
   ]
   node [
     id 89
     label "KAA Gent"
+    competition "Jupiler Pro League"
   ]
   node [
     id 90
     label "QD Huanghai"
+    competition "China League One"
   ]
   node [
     id 91
     label "SJZ Ever Bright"
+    competition "Chinese Super League"
   ]
   node [
     id 92
     label "Ponferradina"
+    competition "Segunda Divisi&#243;n"
   ]
   node [
     id 93
     label "SZ FC"
+    competition "China League One"
   ]
   node [
     id 94
     label "Partizan"
+    competition "SuperLiga"
   ]
   node [
     id 95
     label "Valerenga"
+    competition "Tippeligaen"
   ]
   node [
     id 96
     label "West Brom"
+    competition "Premier League"
   ]
   node [
     id 97
     label "San Lorenzo"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 98
     label "Man Utd"
+    competition "Premier League"
   ]
   node [
     id 99
     label "Hull City"
+    competition "Premier League"
   ]
   node [
     id 100
     label "Zenit S-Pb"
+    competition "Premier Liga"
   ]
   node [
     id 101
     label "Olympiacos"
+    competition "Super League"
   ]
   node [
     id 102
     label "Aston Villa"
+    competition "Premier League"
   ]
   node [
     id 103
     label "Spurs"
+    competition "Premier League"
   ]
   node [
     id 104
     label "Watford"
+    competition "Championship"
   ]
   node [
     id 105
     label "TSG Hoffenheim"
+    competition "1.Bundesliga"
   ]
   node [
     id 106
     label "KV Oostende"
+    competition "Jupiler Pro League"
   ]
   node [
     id 107
     label "VfL Wolfsburg"
+    competition "1.Bundesliga"
   ]
   node [
     id 108
     label "Werder Bremen"
+    competition "1.Bundesliga"
   ]
   node [
     id 109
     label "Liverpool"
+    competition "Premier League"
   ]
   node [
     id 110
     label "1. FC K&#246;ln"
+    competition "1.Bundesliga"
   ]
   node [
     id 111
     label "FC Basel"
+    competition "Raiffeisen Super League"
   ]
   node [
     id 112
     label "SC Freiburg"
+    competition "1.Bundesliga"
   ]
   node [
     id 113
     label "Sparta Praha"
+    competition "Gambrinus Liga"
   ]
   node [
     id 114
     label "Torino"
+    competition "Serie A"
   ]
   node [
     id 115
     label "Sport Recife"
+    competition "Campeonato Brasileiro S&#233;rie A"
   ]
   node [
     id 116
     label "VfL Bochum"
+    competition "2.Bundesliga"
   ]
   node [
     id 117
     label "1.FC Nuremberg"
+    competition "2.Bundesliga"
   ]
   node [
     id 118
     label "Rapid Vienna"
+    competition "Bundesliga"
   ]
   node [
     id 119
     label "Heerenveen"
+    competition "Eredivisie"
   ]
   node [
     id 120
     label "E. Frankfurt"
+    competition "1.Bundesliga"
   ]
   node [
     id 121
     label "Austria Vienna"
+    competition "Bundesliga"
   ]
   node [
     id 122
     label "Hamburger SV"
+    competition "1.Bundesliga"
   ]
   node [
     id 123
     label "SSC Napoli"
+    competition "Serie A"
   ]
   node [
     id 124
     label "RB Salzburg"
+    competition "Bundesliga"
   ]
   node [
     id 125
     label "Leicester"
+    competition "Premier League"
   ]
   node [
     id 126
     label "Bay. Leverkusen"
+    competition "1.Bundesliga"
   ]
   node [
     id 127
     label "VfB Stuttgart"
+    competition "1.Bundesliga"
   ]
   node [
     id 128
     label "SV Darmstadt 98"
+    competition "2.Bundesliga"
   ]
   node [
     id 129
     label "FC Ingolstadt"
+    competition "1.Bundesliga"
   ]
   node [
     id 130
     label "GC Z&#252;rich U18"
+    competition "Swiss U18 Elite League"
   ]
   node [
     id 131
     label "FC Augsburg"
+    competition "1.Bundesliga"
   ]
   node [
     id 132
     label "Spartak 2"
+    competition "1.Division"
   ]
   node [
     id 133
     label "Kuban Krasnodar"
+    competition "Premier Liga"
   ]
   node [
     id 134
     label "Enisey"
+    competition "1.Division"
   ]
   node [
     id 135
     label "Torpedo Armavir"
+    competition "1.Division"
   ]
   node [
     id 136
     label "Tosno"
+    competition "1.Division"
   ]
   node [
     id 137
     label "Ufa"
+    competition "Premier Liga"
   ]
   node [
     id 138
     label "Zenit 2 S-Pb"
+    competition "1.Division"
   ]
   node [
     id 139
     label "Alessandria"
+    competition "Prima Divisione - A"
   ]
   node [
     id 140
     label "Inter"
+    competition "Serie A"
   ]
   node [
     id 141
     label "FC S&#252;dtirol"
+    competition "Prima Divisione - A"
   ]
   node [
     id 142
     label "Asteras Tripoli"
+    competition "Super League"
   ]
   node [
     id 143
     label "Vojvodina"
+    competition "SuperLiga"
   ]
   node [
     id 144
     label "Panathinaikos"
+    competition "Super League"
   ]
   node [
     id 145
     label "GZ R&#38;F;"
+    competition "Chinese Super League"
   ]
   node [
     id 146
     label "PAS Giannina"
+    competition "Super League"
   ]
   node [
     id 147
     label "ABC"
+    competition "Campeonato Brasileiro S&#233;rie B"
   ]
   node [
     id 148
     label "Flamengo"
+    competition "Campeonato Brasileiro S&#233;rie A"
   ]
   node [
     id 149
     label "Waasl.-Beveren"
+    competition "Jupiler Pro League"
   ]
   node [
     id 150
     label "CS Fola Esch"
+    competition "BGL Ligue"
   ]
   node [
     id 151
     label "Benfica B"
+    competition "Segunda Liga"
   ]
   node [
     id 152
     label "FC Twente"
+    competition "Eredivisie"
   ]
   node [
     id 153
     label "Apol. Limassol"
+    competition "Division A"
   ]
   node [
     id 154
     label "U. de Chile"
+    competition "Primera Divisi&#243;n Clausura"
   ]
   node [
     id 155
     label "CD Palestino"
+    competition "Primera Divisi&#243;n Clausura"
   ]
   node [
     id 156
     label "Audax Italiano"
+    competition "Primera Divisi&#243;n Clausura"
   ]
   node [
     id 157
     label "Catania"
+    competition "Serie B"
   ]
   node [
     id 158
     label "Colo Colo"
+    competition "Primera Divisi&#243;n Clausura"
   ]
   node [
     id 159
     label "Quilmes"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 160
     label "Sampdoria U19"
+    competition "Campionato Primavera Girone A"
   ]
   node [
     id 161
     label "Juventus U19"
+    competition "Campionato Primavera Girone A"
   ]
   node [
     id 162
     label "Slavija S."
+    competition "Premijer Liga"
   ]
   node [
     id 163
     label "Sloboda Tuzla"
+    competition "Premijer Liga"
   ]
   node [
     id 164
     label "Deportes Tolima"
+    competition "Liga Postobon II"
   ]
   node [
     id 165
     label "Monterrey"
+    competition "Liga MX Clausura"
   ]
   node [
     id 166
     label "Atl. Nacional"
+    competition "Liga Postobon II"
   ]
   node [
     id 167
     label "Pistoiese"
+    competition "Prima Divisione - B"
   ]
   node [
     id 168
     label "AS Roma"
+    competition "Serie A"
   ]
   node [
     id 169
     label "Al-Wahda"
+    competition "Saudi Professional League"
   ]
   node [
     id 170
     label "Ahli"
+    competition "Saudi Professional League"
   ]
   node [
     id 171
     label "ES S&#233;tif"
+    competition "Ligue Professionnelle 1"
   ]
   node [
     id 172
     label "1.FC Heidenheim"
+    competition "2.Bundesliga"
   ]
   node [
     id 173
     label "Unterhaching"
+    competition "3.Liga"
   ]
   node [
     id 174
     label "F. D&#252;sseldorf"
+    competition "2.Bundesliga"
   ]
   node [
     id 175
     label "1860 Munich"
+    competition "2.Bundesliga"
   ]
   node [
     id 176
     label "FC Schalke 04"
+    competition "1.Bundesliga"
   ]
   node [
     id 177
     label "El Sharkia"
+    competition "Egyptian Premier League"
   ]
   node [
     id 178
     label "Ismaily"
+    competition "Egyptian Premier League"
   ]
   node [
     id 179
     label "N&#238;mes Olympique"
+    competition "Ligue 2"
   ]
   node [
     id 180
     label "SCO Angers"
+    competition "Ligue 2"
   ]
   node [
     id 181
     label "Litex Lovetch"
+    competition "A Grupa - Championship group"
   ]
   node [
     id 182
     label "TJ Teda"
+    competition "Chinese Super League"
   ]
   node [
     id 183
     label "Kasimpasa"
+    competition "S&#252;per Lig"
   ]
   node [
     id 184
     label "Al-Ain FC"
+    competition "UAE Arabian Gulf League"
   ]
   node [
     id 185
     label "Estudiantes"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 186
     label "Olimpo"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 187
     label "Sampdoria"
+    competition "Serie A"
   ]
   node [
     id 188
     label "Monaco"
+    competition "Ligue 1"
   ]
   node [
     id 189
     label "Sunderland"
+    competition "Premier League"
   ]
   node [
     id 190
     label "Al-Dhafra SCC"
+    competition "UAE Arabian Gulf League"
   ]
   node [
     id 191
     label "Independiente"
+    competition "Serie A Segunda Etapa"
   ]
   node [
     id 192
     label "Uni&#243;n Santa F&#233;"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 193
     label "NE Xamax"
+    competition "1.Liga Promotion "
   ]
   node [
     id 194
     label "Zalgiris"
+    competition "A Lyga"
   ]
   node [
     id 195
     label "Aktobe"
+    competition "Premier Liga"
   ]
   node [
     id 196
     label "BATE Borisov"
+    competition "Wyschejschaja Liha"
   ]
   node [
     id 197
     label "Tigres"
+    competition "Liga MX Clausura"
   ]
   node [
     id 198
     label "CF Pachuca"
+    competition "Liga MX Clausura"
   ]
   node [
     id 199
     label "Villarreal CF"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 200
     label "Chiapas FC"
+    competition "Liga MX Clausura"
   ]
   node [
     id 201
     label "Pumas"
+    competition "Liga MX Clausura"
   ]
   node [
     id 202
     label "CD Cruz Azul"
+    competition "Liga MX Clausura"
   ]
   node [
     id 203
     label "Cruzeiro"
+    competition "Campeonato Brasileiro S&#233;rie A"
   ]
   node [
     id 204
     label "SM Caen"
+    competition "Ligue 1"
   ]
   node [
     id 205
     label "Shirak Gyumri"
+    competition "Bardsragujn chumb"
   ]
   node [
     id 206
     label "Instituto"
+    competition "Primera B Nacional"
   ]
   node [
     id 207
     label "CD Godoy Cruz"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 208
     label "CA Col&#243;n"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 209
     label "UD Las Palmas"
+    competition "Segunda Divisi&#243;n"
   ]
   node [
     id 210
     label "Preston NE"
+    competition "League One"
   ]
   node [
     id 211
     label "Man Utd U23"
+    competition "U21 Premier League"
   ]
   node [
     id 212
     label "Fulham"
+    competition "Championship"
   ]
   node [
     id 213
     label "Rangers"
+    competition "Scottish Championship"
   ]
   node [
     id 214
     label "Manisaspor"
+    competition "1.Lig"
   ]
   node [
     id 215
     label "G&#246;ztepe"
+    competition "2.Lig Kirmizi"
   ]
   node [
     id 216
     label "Melbourne City"
+    competition "A-League"
   ]
   node [
     id 217
     label "Kawkab Marrakech"
+    competition "Botola Pro"
   ]
   node [
     id 218
     label "MAS Fes"
+    competition "Botola Pro"
   ]
   node [
     id 219
     label "RS Berkane"
+    competition "Botola Pro"
   ]
   node [
     id 220
     label "Sporting B"
+    competition "Segunda Liga"
   ]
   node [
     id 221
     label "SZ Renren"
+    competition "China League Two South"
   ]
   node [
     id 222
     label "ZJ Yiteng"
+    competition "China League One"
   ]
   node [
     id 223
     label "Crotone"
+    competition "Serie B"
   ]
   node [
     id 224
     label "AC Cesena"
+    competition "Serie A"
   ]
   node [
     id 225
     label "Fiorentina"
+    competition "Serie A"
   ]
   node [
     id 226
     label "FC St. Pauli"
+    competition "2.Bundesliga"
   ]
   node [
     id 227
     label "Portimonense"
+    competition "Segunda Liga"
   ]
   node [
     id 228
     label "AS Livorno"
+    competition "Serie B"
   ]
   node [
     id 229
     label "Mouscron"
+    competition "Jupiler Pro League"
   ]
   node [
     id 230
     label "IF Elfsborg"
+    competition "Allsvenskan"
   ]
   node [
     id 231
     label "Sassuolo"
+    competition "Serie A"
   ]
   node [
     id 232
     label "Standard Li&#232;ge"
+    competition "Jupiler Pro League"
   ]
   node [
     id 233
     label "Granada CF"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 234
     label "Rubin Kazan"
+    competition "Premier Liga"
   ]
   node [
     id 235
     label "FAL U18"
+    competition "Jugendliga U18"
   ]
   node [
     id 236
     label "Blau Weiss Linz"
+    competition "Erste Liga"
   ]
   node [
     id 237
     label "Palmeiras"
+    competition "Campeonato Brasileiro S&#233;rie A"
   ]
   node [
     id 238
     label "Internacional"
+    competition "Campeonato Brasileiro S&#233;rie A"
   ]
   node [
     id 239
     label "Konyaspor"
+    competition "S&#252;per Lig"
   ]
   node [
     id 240
     label "CD Mirand&#233;s"
+    competition "Segunda Divisi&#243;n"
   ]
   node [
     id 241
     label "KSC Lokeren"
+    competition "Jupiler Pro League"
   ]
   node [
     id 242
     label "KV Mechelen"
+    competition "Jupiler Pro League"
   ]
   node [
     id 243
     label "NK Osijek"
+    competition "1.HNL"
   ]
   node [
     id 244
     label "M&#225;laga CF"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 245
     label "Club Brugge"
+    competition "Jupiler Pro League"
   ]
   node [
     id 246
     label "FSV Frankfurt"
+    competition "2.Bundesliga"
   ]
   node [
     id 247
     label "Hannover 96"
+    competition "1.Bundesliga"
   ]
   node [
     id 248
     label "W&#252;rzb. Kickers"
+    competition "3.Liga"
   ]
   node [
     id 249
     label "SC Fortuna K&#246;ln"
+    competition "3.Liga"
   ]
   node [
     id 250
     label "Admira Wacker"
+    competition "Bundesliga"
   ]
   node [
     id 251
     label "VfL Osnabr&#252;ck"
+    competition "3.Liga"
   ]
   node [
     id 252
     label "Hallescher FC"
+    competition "3.Liga"
   ]
   node [
     id 253
     label "Vozdovac "
+    competition "SuperLiga"
   ]
   node [
     id 254
     label "Cukaricki"
+    competition "SuperLiga"
   ]
   node [
     id 255
     label "San Marino"
+    competition "Prima Divisione - B"
   ]
   node [
     id 256
     label "Bologna"
+    competition "Serie B"
   ]
   node [
     id 257
     label "Omonia Nikosia"
+    competition "Division A"
   ]
   node [
     id 258
     label "Anorthosis"
+    competition "Division A"
   ]
   node [
     id 259
     label "Widzew Lodz"
+    competition "1 Liga"
   ]
   node [
     id 260
     label "Los Angeles"
+    competition "Major League Soccer"
   ]
   node [
     id 261
     label "Montpellier"
+    competition "Ligue 1"
   ]
   node [
     id 262
     label "FC Sion"
+    competition "Raiffeisen Super League"
   ]
   node [
     id 263
     label "US Palermo"
+    competition "Serie A"
   ]
   node [
     id 264
     label "SC Bastia"
+    competition "Ligue 1"
   ]
   node [
     id 265
     label "Saint-&#201;tienne"
+    competition "Ligue 1"
   ]
   node [
     id 266
     label "Real Betis"
+    competition "Segunda Divisi&#243;n"
   ]
   node [
     id 267
     label "Bristol City"
+    competition "League One"
   ]
   node [
     id 268
     label "Wolves"
+    competition "Championship"
   ]
   node [
     id 269
     label "Bournemouth"
+    competition "Championship"
   ]
   node [
     id 270
     label "LB Ch&#226;teauroux"
+    competition "Ligue 2"
   ]
   node [
     id 271
     label "Juventus"
+    competition "Serie A"
   ]
   node [
     id 272
     label "Oxford United"
+    competition "League Two"
   ]
   node [
     id 273
     label "Leeds"
+    competition "Championship"
   ]
   node [
     id 274
     label "Lens"
+    competition "Ligue 1"
   ]
   node [
     id 275
     label "IFK G&#246;teborg"
+    competition "Allsvenskan"
   ]
   node [
     id 276
     label "Joinville"
+    competition "Campeonato Brasileiro S&#233;rie A"
   ]
   node [
     id 277
     label "Ponte Preta"
+    competition "Campeonato Brasileiro S&#233;rie A"
   ]
   node [
     id 278
     label "FK Zira"
+    competition "Premyer Liqasi"
   ]
   node [
     id 279
     label "FC Viitorul"
+    competition "Liga 1"
   ]
   node [
     id 280
     label "Nacional"
+    competition "Primera Division Clausura"
   ]
   node [
     id 281
     label "Al-Sadd"
+    competition "Qatar Stars League"
   ]
   node [
     id 282
     label "ES Sahel"
+    competition "Ligue Professionelle 1"
   ]
   node [
     id 283
     label "Reggiana"
+    competition "Prima Divisione - B"
   ]
   node [
     id 284
     label "Pescara"
+    competition "Serie B"
   ]
   node [
     id 285
     label "CS Emelec"
+    competition "Serie A Segunda Etapa"
   ]
   node [
     id 286
     label "Gr&#234;mio"
+    competition "Campeonato Brasileiro S&#233;rie A"
   ]
   node [
     id 287
     label "Metalac"
+    competition "Prva liga"
   ]
   node [
     id 288
     label "Paris SG"
+    competition "Ligue 1"
   ]
   node [
     id 289
     label "G. Bordeaux"
+    competition "Ligue 1"
   ]
   node [
     id 290
     label "Toulouse"
+    competition "Ligue 1"
   ]
   node [
     id 291
     label "Crystal Palace"
+    competition "Premier League"
   ]
   node [
     id 292
     label "LOSC Lille"
+    competition "Ligue 1"
   ]
   node [
     id 293
     label "HB CFFC"
+    competition "Chinese Super League"
   ]
   node [
     id 294
     label "FC Barcelona"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 295
     label "CA Rosario"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 296
     label "Sevilla FC"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 297
     label "Chelsea"
+    competition "Premier League"
   ]
   node [
     id 298
     label "Real Madrid"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 299
     label "Bor. M'gladbach"
+    competition "1.Bundesliga"
   ]
   node [
     id 300
     label "FC Z&#252;rich"
+    competition "Raiffeisen Super League"
   ]
   node [
     id 301
     label "AFC Ajax"
+    competition "Eredivisie"
   ]
   node [
     id 302
     label "Hertha BSC"
+    competition "1.Bundesliga"
   ]
   node [
     id 303
     label "Bor. Dortmund"
+    competition "1.Bundesliga"
   ]
   node [
     id 304
     label "Arsenal"
+    competition "Premier League"
   ]
   node [
     id 305
     label "MSK Zilina"
+    competition "Corgon liga"
   ]
   node [
     id 306
     label "Valencia CF"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 307
     label "Benfica"
+    competition "Primeira Liga"
   ]
   node [
     id 308
     label "Man City"
+    competition "Premier League"
   ]
   node [
     id 309
     label "PSV Eindhoven"
+    competition "Eredivisie"
   ]
   node [
     id 310
     label "Celta de Vigo"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 311
     label "Braga"
+    competition "Primeira Liga"
   ]
   node [
     id 312
     label "Middlesbrough"
+    competition "Championship"
   ]
   node [
     id 313
     label "Espanyol"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 314
     label "Udinese Calcio"
+    competition "Serie A"
   ]
   node [
     id 315
     label "Liverpool U23"
+    competition "U21 Premier League"
   ]
   node [
     id 316
     label "Swindon Town"
+    competition "League One"
   ]
   node [
     id 317
     label "Pasching/LASK"
+    competition "Regionalliga Mitte"
   ]
   node [
     id 318
     label "Wolfsburg U19"
+    competition "A-Jgd. BL Nord/Nordost"
   ]
   node [
     id 319
     label "Dinamo Brest"
+    competition "Wyschejschaja Liha"
   ]
   node [
     id 320
     label "Dinamo Minsk"
+    competition "Wyschejschaja Liha"
   ]
   node [
     id 321
     label "RB Leipzig U19"
+    competition "A-Jgd. BL Nord/Nordost"
   ]
   node [
     id 322
     label "VfL Bochum U19"
+    competition "A-Jgd. BL West"
   ]
   node [
     id 323
     label "Hajduk Split"
+    competition "1.HNL"
   ]
   node [
     id 324
     label "HNK Rijeka"
+    competition "1.HNL"
   ]
   node [
     id 325
     label "SIPG"
+    competition "Chinese Super League"
   ]
   node [
     id 326
     label "FC St. Gallen"
+    competition "Raiffeisen Super League"
   ]
   node [
     id 327
     label "Aarhus GF"
+    competition "1.Division"
   ]
   node [
     id 328
     label "KV Kortrijk"
+    competition "Jupiler Pro League"
   ]
   node [
     id 329
     label "CQ Lifan"
+    competition "Chinese Super League"
   ]
   node [
     id 330
     label "Central Coast"
+    competition "A-League"
   ]
   node [
     id 331
     label "Siroki Brijeg"
+    competition "Premijer Liga"
   ]
   node [
     id 332
     label "Fiorentina U19"
+    competition "Campionato Primavera Girone A"
   ]
   node [
     id 333
     label "KRC Genk"
+    competition "Jupiler Pro League"
   ]
   node [
     id 334
     label "Newport County"
+    competition "League Two"
   ]
   node [
     id 335
     label "Cear&#225; SC"
+    competition "Campeonato Brasileiro S&#233;rie B"
   ]
   node [
     id 336
     label "G. Ajaccio"
+    competition "Ligue 1"
   ]
   node [
     id 337
     label "NEC Nijmegen"
+    competition "Jupiler League"
   ]
   node [
     id 338
     label "K. Erciyesspor"
+    competition "S&#252;per Lig"
   ]
   node [
     id 339
     label "Gaziantepspor"
+    competition "S&#252;per Lig"
   ]
   node [
     id 340
     label "Floriana"
+    competition "Premier League"
   ]
   node [
     id 341
     label "Trapani"
+    competition "Campionato Primavera Girone A"
   ]
   node [
     id 342
     label "Smouha"
+    competition "Egyptian Premier League"
   ]
   node [
     id 343
     label "El Dakhlia"
+    competition "Egyptian Premier League"
   ]
   node [
     id 344
     label "Entag El Harby"
+    competition "Egyptian Premier League"
   ]
   node [
     id 345
     label "Enppi"
+    competition "Egyptian Premier League"
   ]
   node [
     id 346
     label "Huachipato FC"
+    competition "Primera Divisi&#243;n Clausura"
   ]
   node [
     id 347
     label "Arsenal FC"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 348
     label "Moreirense "
+    competition "Primeira Liga"
   ]
   node [
     id 349
     label "Tottenham U21"
+    competition "U21 Premier League"
   ]
   node [
     id 350
     label "Genclerbirligi"
+    competition "S&#252;per Lig"
   ]
   node [
     id 351
     label "FC Midtjylland"
+    competition "Superligaen"
   ]
   node [
     id 352
     label "Hammarby"
+    competition "Allsvenskan"
   ]
   node [
     id 353
     label "AIK Solna"
+    competition "Allsvenskan"
   ]
   node [
     id 354
     label "Odense BK"
+    competition "Superligaen"
   ]
   node [
     id 355
     label "H&#228;cken"
+    competition "Allsvenskan"
   ]
   node [
     id 356
     label "Radnik"
+    competition "Prva liga"
   ]
   node [
     id 357
     label "Berliner AK"
+    competition "Regionalliga Nordost"
   ]
   node [
     id 358
     label "Mersin IY"
+    competition "S&#252;per Lig"
   ]
   node [
     id 359
     label "Karlsruher SC"
+    competition "2.Bundesliga"
   ]
   node [
     id 360
     label "Erzgebirge Aue"
+    competition "2.Bundesliga"
   ]
   node [
     id 361
     label "Arm. Bielefeld"
+    competition "2.Bundesliga"
   ]
   node [
     id 362
     label "Burnley"
+    competition "Championship"
   ]
   node [
     id 363
     label "FC Tokyo"
+    competition "J. League Division 1 &#8211; Second Stage"
   ]
   node [
     id 364
     label "Stuttg. Kickers"
+    competition "3.Liga"
   ]
   node [
     id 365
     label "E. Braunschweig"
+    competition "2.Bundesliga"
   ]
   node [
     id 366
     label "Guingamp"
+    competition "Ligue 1"
   ]
   node [
     id 367
     label "Galatasaray"
+    competition "S&#252;per Lig"
   ]
   node [
     id 368
     label "1.FC K'lautern"
+    competition "2.Bundesliga"
   ]
   node [
     id 369
     label "FC Lorient"
+    competition "Ligue 1"
   ]
   node [
     id 370
     label "Stade Brest 29"
+    competition "Ligue 2"
   ]
   node [
     id 371
     label "Dijon"
+    competition "Ligue 2"
   ]
   node [
     id 372
     label "Lillestr&#246;m SK"
+    competition "Tippeligaen"
   ]
   node [
     id 373
     label "AC Le Havre"
+    competition "Ligue 2"
   ]
   node [
     id 374
     label "Reims"
+    competition "Ligue 1"
   ]
   node [
     id 375
     label "Troyes"
+    competition "Ligue 2"
   ]
   node [
     id 376
     label "Vit. Guimar&#227;es"
+    competition "Primeira Liga"
   ]
   node [
     id 377
     label "FC Niort"
+    competition "Ligue 2"
   ]
   node [
     id 378
     label "Stade Rennais"
+    competition "Ligue 1"
   ]
   node [
     id 379
     label "Balzan FC"
+    competition "Premier League"
   ]
   node [
     id 380
     label "Mosta FC"
+    competition "Premier League"
   ]
   node [
     id 381
     label "OFK Beograd"
+    competition "SuperLiga"
   ]
   node [
     id 382
     label "Bayern Munich "
+    competition "1.Bundesliga"
   ]
   node [
     id 383
     label "Nordsjaelland"
+    competition "Superligaen"
   ]
   node [
     id 384
     label "CA Osasuna"
+    competition "Segunda Divisi&#243;n"
   ]
   node [
     id 385
     label "Lazio"
+    competition "Serie A"
   ]
   node [
     id 386
     label "Sharjah FC"
+    competition "UAE Arabian Gulf League"
   ]
   node [
     id 387
     label "Sutton United"
+    competition "Conference National"
   ]
   node [
     id 388
     label "Grimsby Town"
+    competition "Conference National"
   ]
   node [
     id 389
     label "Wadi Degla "
+    competition "Egyptian Premier League"
   ]
   node [
     id 390
     label "Harras Hodoud"
+    competition "Egyptian Premier League"
   ]
   node [
     id 391
     label "Petr. Ploiesti"
+    competition "Liga 1"
   ]
   node [
     id 392
     label "Veracruz"
+    competition "Liga MX Clausura"
   ]
   node [
     id 393
     label "Aberdeen FC"
+    competition "Scottish Premiership"
   ]
   node [
     id 394
     label "St. Mirren FC"
+    competition "Scottish Premiership"
   ]
   node [
     id 395
     label "Zaglebie Lubin"
+    competition "1 Liga"
   ]
   node [
     id 396
     label "Slask Wroclaw"
+    competition "Ekstraklasa"
   ]
   node [
     id 397
     label "AJ Auxerre"
+    competition "Ligue 2"
   ]
   node [
     id 398
     label "Arouca"
+    competition "Primeira Liga"
   ]
   node [
     id 399
     label "Ferencv&#225;ros"
+    competition "Nemzeti Bajnoks&#225;g"
   ]
   node [
     id 400
     label "Kayserispor"
+    competition "1.Lig"
   ]
   node [
     id 401
     label "Difaa El Jadida"
+    competition "Botola Pro"
   ]
   node [
     id 402
     label "Raja Casablanca"
+    competition "Botola Pro"
   ]
   node [
     id 403
     label "Go Ahead Eagles"
+    competition "Eredivisie"
   ]
   node [
     id 404
     label "SC Cambuur"
+    competition "Eredivisie"
   ]
   node [
     id 405
     label "FC Utrecht"
+    competition "Eredivisie"
   ]
   node [
     id 406
     label "Sanf. Hiroshima"
+    competition "J. League Division 1 &#8211; Second Stage"
   ]
   node [
     id 407
     label "Ventforet Kofu"
+    competition "J. League Division 1 &#8211; Second Stage"
   ]
   node [
     id 408
     label "Balikesirspor"
+    competition "S&#252;per Lig"
   ]
   node [
     id 409
     label "RNK Split"
+    competition "1.HNL"
   ]
   node [
     id 410
     label "Gaziantep BB"
+    competition "1.Lig"
   ]
   node [
     id 411
     label "Akhisarspor"
+    competition "S&#252;per Lig"
   ]
   node [
     id 412
     label "Bandirmaspor"
+    competition "2.Lig Kirmizi"
   ]
   node [
     id 413
     label "Cortulu&#225;"
+    competition "Liga Postobon II"
   ]
   node [
     id 414
     label "SD Huesca"
+    competition "Segunda Divisi&#243;n B - Grupo II"
   ]
   node [
     id 415
     label "Elche CF"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 416
     label "Salt Lake"
+    competition "Major League Soccer"
   ]
   node [
     id 417
     label "Guadalajara"
+    competition "Liga MX Clausura"
   ]
   node [
     id 418
     label "Slavia Prag"
+    competition "Gambrinus Liga"
   ]
   node [
     id 419
     label "FC Botosani"
+    competition "Liga 1"
   ]
   node [
     id 420
     label "AS Trencin"
+    competition "Corgon liga"
   ]
   node [
     id 421
     label "Anzhi"
+    competition "1.Division"
   ]
   node [
     id 422
     label "Sporting CP"
+    competition "Primeira Liga"
   ]
   node [
     id 423
     label "Zawisza"
+    competition "Ekstraklasa"
   ]
   node [
     id 424
     label "KF Sk&#235;nderbeu"
+    competition "Kategoria Superiore"
   ]
   node [
     id 425
     label "&#201;vian"
+    competition "Ligue 1"
   ]
   node [
     id 426
     label "Malm&#246;"
+    competition "Allsvenskan"
   ]
   node [
     id 427
     label "GZ Renhe"
+    competition "Chinese Super League"
   ]
   node [
     id 428
     label "RB Leipzig"
+    competition "2.Bundesliga"
   ]
   node [
     id 429
     label "SK Brann"
+    competition "1.Divisjon"
   ]
   node [
     id 430
     label "PAOK Saloniki"
+    competition "Super League"
   ]
   node [
     id 431
     label "Hellas Verona"
+    competition "Serie A"
   ]
   node [
     id 432
     label "M. Tel Aviv"
+    competition "Ligat ha Al"
   ]
   node [
     id 433
     label "Doxa Katokopias"
+    competition "Division A"
   ]
   node [
     id 434
     label "APOEL Nicosia"
+    competition "Division A"
   ]
   node [
     id 435
     label "Aalborg BK"
+    competition "Superligaen"
   ]
   node [
     id 436
     label "FC Nantes"
+    competition "Ligue 1"
   ]
   node [
     id 437
     label "HRB Yiteng"
+    competition "China League One"
   ]
   node [
     id 438
     label "SY Dongjin"
+    competition "China League Two"
   ]
   node [
     id 439
     label "Ruch Chorzow"
+    competition "Ekstraklasa"
   ]
   node [
     id 440
     label "FC Thun"
+    competition "Raiffeisen Super League"
   ]
   node [
     id 441
     label "Deportivo Cali"
+    competition "Liga Postobon II"
   ]
   node [
     id 442
     label "Atl&#233;tico Madrid"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 443
     label "Wanderers"
+    competition "Primera Divisi&#243;n Clausura"
   ]
   node [
     id 444
     label "Nuremberg II"
+    competition "Regionalliga Bayern"
   ]
   node [
     id 445
     label "Bayern Hof"
+    competition "Regionalliga Bayern"
   ]
   node [
     id 446
     label "Barnet"
+    competition "Conference National"
   ]
   node [
     id 447
     label "Eastleigh FC"
+    competition "Conference National"
   ]
   node [
     id 448
     label "Atvidaberg"
+    competition "Allsvenskan"
   ]
   node [
     id 449
     label "El Makasa"
+    competition "Egyptian Premier League"
   ]
   node [
     id 450
     label "Ahly"
+    competition "Egyptian Premier League"
   ]
   node [
     id 451
     label "El Shorta"
+    competition "Egyptian Premier League"
   ]
   node [
     id 452
     label "Platinum Stars"
+    competition "ABSA Premiership"
   ]
   node [
     id 453
     label "Black Aces"
+    competition "ABSA Premiership"
   ]
   node [
     id 454
     label "Iskenderunspor"
+    competition "2.Lig Beyaz"
   ]
   node [
     id 455
     label "BB Erzurumspor"
+    competition "3.Lig Grup 3"
   ]
   node [
     id 456
     label "Atalanta"
+    competition "Serie A"
   ]
   node [
     id 457
     label "Dibba Fujairah"
+    competition "UAE Arabian Gulf League"
   ]
   node [
     id 458
     label "FC Voluntari"
+    competition "Relegation Liga 1"
   ]
   node [
     id 459
     label "Empoli U19"
+    competition "Campionato Primavera Girone C"
   ]
   node [
     id 460
     label "GZ Evergrande"
+    competition "Chinese Super League"
   ]
   node [
     id 461
     label "Viking"
+    competition "Tippeligaen"
   ]
   node [
     id 462
     label "Cerezo Osaka"
+    competition "J. League Division 2"
   ]
   node [
     id 463
     label "Gr&#246;dig"
+    competition "Bundesliga"
   ]
   node [
     id 464
     label "SV  Ried"
+    competition "Bundesliga"
   ]
   node [
     id 465
     label "FC Copenhagen"
+    competition "Superligaen"
   ]
   node [
     id 466
     label "Molde FK"
+    competition "Tippeligaen"
   ]
   node [
     id 467
     label "OGC Nice"
+    competition "Ligue 1"
   ]
   node [
     id 468
     label "AS Nancy"
+    competition "Ligue 2"
   ]
   node [
     id 469
     label "Stade Laval"
+    competition "Ligue 2"
   ]
   node [
     id 470
     label "Swansea"
+    competition "Premier League"
   ]
   node [
     id 471
     label "BSC Young Boys"
+    competition "Raiffeisen Super League"
   ]
   node [
     id 472
     label "Southampton"
+    competition "Premier League"
   ]
   node [
     id 473
     label "FC Vysocina"
+    competition "Gambrinus Liga"
   ]
   node [
     id 474
     label "Vitesse"
+    competition "Eredivisie"
   ]
   node [
     id 475
     label "Al-Duhail"
+    competition "Qatar Stars League"
   ]
   node [
     id 476
     label "El-Jaish"
+    competition "Qatar Stars League"
   ]
   node [
     id 477
     label "Arsenal U21"
+    competition "U21 Premier League"
   ]
   node [
     id 478
     label "Danubio FC"
+    competition "Primera Division Clausura"
   ]
   node [
     id 479
     label "Hoffenheim U19"
+    competition "A-Jgd. BL S&#252;d/S&#252;dwest"
   ]
   node [
     id 480
     label "LD Alajuelense"
+    competition "Primera Divisi&#243;n Verano"
   ]
   node [
     id 481
     label "Lim&#243;n FC"
+    competition "Primera Divisi&#243;n Verano"
   ]
   node [
     id 482
     label "NYCFC"
+    competition "Major League Soccer"
   ]
   node [
     id 483
     label "Slovan Liberec"
+    competition "Gambrinus Liga"
   ]
   node [
     id 484
     label "Blackburn"
+    competition "Championship"
   ]
   node [
     id 485
     label "US Cr&#233;teil"
+    competition "Ligue 2"
   ]
   node [
     id 486
     label "Clermont Foot"
+    competition "Ligue 2"
   ]
   node [
     id 487
     label "Derby"
+    competition "Championship"
   ]
   node [
     id 488
     label "FC Sochaux"
+    competition "Ligue 2"
   ]
   node [
     id 489
     label "Suphanburi FC"
+    competition "Thai Premier League"
   ]
   node [
     id 490
     label "Chonburi FC"
+    competition "Thai Premier League"
   ]
   node [
     id 491
     label "Adana Demirspor"
+    competition "1.Lig"
   ]
   node [
     id 492
     label "Sanliurfaspor "
+    competition "1.Lig"
   ]
   node [
     id 493
     label "CD Legan&#233;s"
+    competition "Segunda Divisi&#243;n"
   ]
   node [
     id 494
     label "Real Zaragoza"
+    competition "Segunda Divisi&#243;n"
   ]
   node [
     id 495
     label "Spezia Calcio"
+    competition "Serie B"
   ]
   node [
     id 496
     label "Racing"
+    competition "Segunda Divisi&#243;n"
   ]
   node [
     id 497
     label "Skoda Xanthi"
+    competition "Super League"
   ]
   node [
     id 498
     label "Estoril"
+    competition "Primeira Liga"
   ]
   node [
     id 499
     label "West Ham"
+    competition "Premier League"
   ]
   node [
     id 500
     label "FK Gabala"
+    competition "Premyer Liqasi"
   ]
   node [
     id 501
     label "Neftchi Baku"
+    competition "Premyer Liqasi"
   ]
   node [
     id 502
     label "Valur"
+    competition "Pepsideild"
   ]
   node [
     id 503
     label "Reading"
+    competition "Championship"
   ]
   node [
     id 504
     label "Real Sociedad B"
+    competition "Segunda Divisi&#243;n B - Grupo II"
   ]
   node [
     id 505
     label "FBC Melgar"
+    competition "Torneo Descentralizado Clausura Entscheidungsspiel"
   ]
   node [
     id 506
     label "FC Empoli"
+    competition "Serie A"
   ]
   node [
     id 507
     label "AC Milan"
+    competition "Serie A"
   ]
   node [
     id 508
     label "J'ville Armada"
+    competition "NASL Fall Championship"
   ]
   node [
     id 509
     label "Miami FC"
+    competition "NASL Fall Championship"
   ]
   node [
     id 510
     label "Emirates Club"
+    competition "UAE Arabian Gulf League"
   ]
   node [
     id 511
     label "Botafogo"
+    competition "Campeonato Brasileiro S&#233;rie B"
   ]
   node [
     id 512
     label "Rio Ave FC"
+    competition "Primeira Liga"
   ]
   node [
     id 513
     label "NK Zagreb"
+    competition "1.HNL"
   ]
   node [
     id 514
     label "Swat Cat"
+    competition "Thai Premier League"
   ]
   node [
     id 515
     label "AEL Limassol"
+    competition "Division A"
   ]
   node [
     id 516
     label "Boluspor"
+    competition "1.Lig"
   ]
   node [
     id 517
     label "Spartak Trnava"
+    competition "Corgon liga"
   ]
   node [
     id 518
     label "USM Alger"
+    competition "Ligue Professionnelle 1"
   ]
   node [
     id 519
     label "JS Saoura"
+    competition "Ligue Professionnelle 1"
   ]
   node [
     id 520
     label "MC Oran"
+    competition "Ligue Professionnelle 1"
   ]
   node [
     id 521
     label "Rizespor"
+    competition "S&#252;per Lig"
   ]
   node [
     id 522
     label "SC Paderborn"
+    competition "1.Bundesliga"
   ]
   node [
     id 523
     label "FC Dallas&#9;"
+    competition "Major League Soccer"
   ]
   node [
     id 524
     label "Dep. La Coru&#241;a"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 525
     label "Novi Pazar"
+    competition "SuperLiga"
   ]
   node [
     id 526
     label "J&#250;bilo Iwata"
+    competition "J. League Division 2"
   ]
   node [
     id 527
     label "KVC Westerlo"
+    competition "Jupiler Pro League"
   ]
   node [
     id 528
     label "Naft Talaieh"
+    competition "Iranian Pro League"
   ]
   node [
     id 529
     label "Hradec Kr&#225;lov&#233;"
+    competition "Druha Liga"
   ]
   node [
     id 530
     label "Radnicki Nis"
+    competition "SuperLiga"
   ]
   node [
     id 531
     label "CDUC"
+    competition "Primera Divisi&#243;n Clausura"
   ]
   node [
     id 532
     label "Caracas FC"
+    competition "Liga Venezolana Clausura"
   ]
   node [
     id 533
     label "CA Temperley"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 534
     label "Maccabi Haifa"
+    competition "Ligat ha Al"
   ]
   node [
     id 535
     label "Javor-Matis"
+    competition "Prva liga"
   ]
   node [
     id 536
     label "FC Astana"
+    competition "Premier Liga"
   ]
   node [
     id 537
     label "B. Banja Luka"
+    competition "Premijer Liga"
   ]
   node [
     id 538
     label "SJK Sein&#228;joki"
+    competition "Veikkausliiga"
   ]
   node [
     id 539
     label "Chievo Verona"
+    competition "Serie A"
   ]
   node [
     id 540
     label "Girona FC"
+    competition "Segunda Divisi&#243;n"
   ]
   node [
     id 541
     label "UE Llagostera"
+    competition "Segunda Divisi&#243;n"
   ]
   node [
     id 542
     label "Cittadella"
+    competition "Serie B"
   ]
   node [
     id 543
     label "Virtus Entella"
+    competition "Serie B"
   ]
   node [
     id 544
     label "Hapoel Raanana"
+    competition "Ligat ha Al"
   ]
   node [
     id 545
     label "CD Tenerife"
+    competition "Segunda Divisi&#243;n"
   ]
   node [
     id 546
     label "Real Valladolid"
+    competition "Segunda Divisi&#243;n"
   ]
   node [
     id 547
     label "SD Eibar"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 548
     label "Toluca"
+    competition "Liga MX Clausura"
   ]
   node [
     id 549
     label "Le&#243;n"
+    competition "Liga MX Clausura"
   ]
   node [
     id 550
     label "Quer&#233;taro FC"
+    competition "Liga MX Clausura"
   ]
   node [
     id 551
     label "Hatta Club"
+    competition "UAE Arabian Gulf League"
   ]
   node [
     id 552
     label "Wolfsberger AC"
+    competition "Bundesliga"
   ]
   node [
     id 553
     label "Zulte Waregem"
+    competition "Jupiler Pro League"
   ]
   node [
     id 554
     label "Genoa"
+    competition "Serie A"
   ]
   node [
     id 555
     label "Modena FC"
+    competition "Serie B"
   ]
   node [
     id 556
     label "Debrecen"
+    competition "Nemzeti Bajnoks&#225;g"
   ]
   node [
     id 557
     label "Zulia FC"
+    competition "Liga Venezolana Clausura"
   ]
   node [
     id 558
     label "Inter Zapresic"
+    competition "1.HNL"
   ]
   node [
     id 559
     label "Newcastle"
+    competition "A-League"
   ]
   node [
     id 560
     label "Rapid Suceava"
+    competition "Liga II - Seria I"
   ]
   node [
     id 561
     label "Pandurii T.-Jiu"
+    competition "Liga 1"
   ]
   node [
     id 562
     label "Yokohama F. M."
+    competition "J. League Division 1 &#8211; Second Stage"
   ]
   node [
     id 563
     label "Faisaly"
+    competition "Saudi Professional League"
   ]
   node [
     id 564
     label "SH Shenhua"
+    competition "Chinese Super League"
   ]
   node [
     id 565
     label "HN Jianye"
+    competition "Chinese Super League"
   ]
   node [
     id 566
     label "SD Luneng"
+    competition "Chinese Super League"
   ]
   node [
     id 567
     label "Sounders FC&#9;"
+    competition "Major League Soccer"
   ]
   node [
     id 568
     label "Jeonbuk Motors"
+    competition "K-League Classic"
   ]
   node [
     id 569
     label "BJ Guoan"
+    competition "Chinese Super League"
   ]
   node [
     id 570
     label "AS Avellino"
+    competition "Serie B"
   ]
   node [
     id 571
     label "Goi&#225;s EC"
+    competition "Campeonato Brasileiro S&#233;rie A"
   ]
   node [
     id 572
     label "Ludogorets"
+    competition "A Grupa - Championship group"
   ]
   node [
     id 573
     label "N&#225;utico"
+    competition "Campeonato Brasileiro S&#233;rie B"
   ]
   node [
     id 574
     label "SH Shenxin"
+    competition "Chinese Super League"
   ]
   node [
     id 575
     label "FC Porto"
+    competition "Primeira Liga"
   ]
   node [
     id 576
     label "EC Vit&#243;ria"
+    competition "Campeonato Brasileiro S&#233;rie B"
   ]
   node [
     id 577
     label "CQ Dangdai Lif."
+    competition "Chinese Super League"
   ]
   node [
     id 578
     label "Juan Aurich"
+    competition "Torneo Descentralizado Clausura"
   ]
   node [
     id 579
     label "Atromitos Athen"
+    competition "Super League"
   ]
   node [
     id 580
     label "FK Sarajevo"
+    competition "Premijer Liga"
   ]
   node [
     id 581
     label "AEL Kalloni"
+    competition "Super League"
   ]
   node [
     id 582
     label "AEK Athens"
+    competition "Super League"
   ]
   node [
     id 583
     label "Basaksehir"
+    competition "S&#252;per Lig"
   ]
   node [
     id 584
     label "Dinamo Bukarest"
+    competition "Liga 1"
   ]
   node [
     id 585
     label "Seongnam FC"
+    competition "K-League Classic"
   ]
   node [
     id 586
     label "MSV Duisburg"
+    competition "3.Liga"
   ]
   node [
     id 587
     label "Wolfsburg II"
+    competition "Regionalliga Nord"
   ]
   node [
     id 588
     label "Atalanta U19"
+    competition "Campionato Primavera Girone B"
   ]
   node [
     id 589
     label "CSKA Moscow"
+    competition "Premier Liga"
   ]
   node [
     id 590
     label "Feyenoord"
+    competition "Eredivisie"
   ]
   node [
     id 591
     label "Albacete"
+    competition "Segunda Divisi&#243;n"
   ]
   node [
     id 592
     label "Ittihad"
+    competition "Saudi Professional League"
   ]
   node [
     id 593
     label "Steaua Bukarest"
+    competition "Liga 1"
   ]
   node [
     id 594
     label "Najran"
+    competition "Saudi Professional League"
   ]
   node [
     id 595
     label "B. Podgorica"
+    competition "Prva Crnogorska Liga"
   ]
   node [
     id 596
     label "Sevilla Atl."
+    competition "Segunda Divisi&#243;n B - Grupo IV"
   ]
   node [
     id 597
     label "Motherwell FC"
+    competition "Scottish Premiership"
   ]
   node [
     id 598
     label "Atl. Kolkata"
+    competition "Indian Super League"
   ]
   node [
     id 599
     label "Ramnicu Valcea"
+    competition "Liga II - Seria II"
   ]
   node [
     id 600
     label "CS U Craiova"
+    competition "Liga 1"
   ]
   node [
     id 601
     label "Ittihad Tanger"
+    competition "Botola Pro"
   ]
   node [
     id 602
     label "Qatar SC"
+    competition "Qatar Stars League"
   ]
   node [
     id 603
     label "Union Berlin"
+    competition "2.Bundesliga"
   ]
   node [
     id 604
     label "HB K&#246;ge"
+    competition "1.Division"
   ]
   node [
     id 605
     label "HJK Helsinki"
+    competition "Veikkausliiga"
   ]
   node [
     id 606
     label "FC Bayern II"
+    competition "Regionalliga Bayern"
   ]
   node [
     id 607
     label "Brentford"
+    competition "Championship"
   ]
   node [
     id 608
     label "Greuther F&#252;rth"
+    competition "2.Bundesliga"
   ]
   node [
     id 609
     label "Preu&#223;en M&#252;nster"
+    competition "3.Liga"
   ]
   node [
     id 610
     label "Sonnenhof-Gr."
+    competition "3.Liga"
   ]
   node [
     id 611
     label "ETO FC Gy&#337;r "
+    competition "Nemzeti Bajnoks&#225;g"
   ]
   node [
     id 612
     label "Vasco da Gama"
+    competition "Campeonato Brasileiro S&#233;rie A"
   ]
   node [
     id 613
     label "Al Qadisiyah"
+    competition "Saudi Professional League"
   ]
   node [
     id 614
     label "Betis B"
+    competition "Segunda Divisi&#243;n B - Grupo IV"
   ]
   node [
     id 615
     label "Real Ja&#233;n CF"
+    competition "Segunda Divisi&#243;n B - Grupo IV"
   ]
   node [
     id 616
     label "CE L&#8217;Hospitalet"
+    competition "Segunda Divisi&#243;n B - Grupo III"
   ]
   node [
     id 617
     label "Arsenal U23"
+    competition "U21 Premier League"
   ]
   node [
     id 618
     label "Stoke City"
+    competition "Premier League"
   ]
   node [
     id 619
     label "AFC Wimbledon"
+    competition "League Two"
   ]
   node [
     id 620
     label "Aris Saloniki"
+    competition "OPAP Football League"
   ]
   node [
     id 621
     label "Lierse SK"
+    competition "Jupiler Pro League"
   ]
   node [
     id 622
     label "JS Kabylie"
+    competition "Ligue Professionnelle 1"
   ]
   node [
     id 623
     label "RC Arbaa"
+    competition "Ligue Professionnelle 1"
   ]
   node [
     id 624
     label "NA Hussein Dey"
+    competition "Ligue Professionnelle 1"
   ]
   node [
     id 625
     label "NK Maribor"
+    competition "Prva Liga"
   ]
   node [
     id 626
     label "NAC Breda"
+    competition "Eredivisie"
   ]
   node [
     id 627
     label "Athletic Bilbao"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 628
     label "Al-Nasr"
+    competition "UAE Arabian Gulf League"
   ]
   node [
     id 629
     label "Slavia"
+    competition "Wyschejschaja Liha"
   ]
   node [
     id 630
     label "Ny&#237;regyh&#225;za"
+    competition "Nemzeti Bajnoks&#225;g"
   ]
   node [
     id 631
     label "KF Vllaznia"
+    competition "Kategoria Superiore"
   ]
   node [
     id 632
     label "Hajer"
+    competition "Saudi Professional League"
   ]
   node [
     id 633
     label "Valenciennes FC"
+    competition "Ligue 2"
   ]
   node [
     id 634
     label "Dynamo Kyiv"
+    competition "Premier Liga"
   ]
   node [
     id 635
     label "Deportivo Lara"
+    competition "Liga Venezolana Clausura"
   ]
   node [
     id 636
     label "Philadelphia"
+    competition "Major League Soccer"
   ]
   node [
     id 637
     label "CD La Equidad"
+    competition "Liga Postobon II"
   ]
   node [
     id 638
     label "Al-Ahli (UAE)"
+    competition "UAE Arabian Gulf League"
   ]
   node [
     id 639
     label "Charlton"
+    competition "Championship"
   ]
   node [
     id 640
     label "Wehen Wiesbaden"
+    competition "3.Liga"
   ]
   node [
     id 641
     label "Hansa Rostock"
+    competition "3.Liga"
   ]
   node [
     id 642
     label "Stabaek IF"
+    competition "Tippeligaen"
   ]
   node [
     id 643
     label "Liaoning FC"
+    competition "Chinese Super League"
   ]
   node [
     id 644
     label "Poli Timisoara"
+    competition "Liga II - Seria II"
   ]
   node [
     id 645
     label "FCS Bucharest"
+    competition "Liga 1 - Meisterrunde"
   ]
   node [
     id 646
     label "Breidablik"
+    competition "Pepsideild"
   ]
   node [
     id 647
     label "AZ Alkmaar"
+    competition "Eredivisie"
   ]
   node [
     id 648
     label "Mordovia"
+    competition "Premier Liga"
   ]
   node [
     id 649
     label "Shinnik"
+    competition "1.Division"
   ]
   node [
     id 650
     label "Odds BK"
+    competition "Tippeligaen"
   ]
   node [
     id 651
     label "Br&#246;ndby IF"
+    competition "Superligaen"
   ]
   node [
     id 652
     label "AOK Kerkyra"
+    competition "Super League"
   ]
   node [
     id 653
     label "Panionios"
+    competition "Super League"
   ]
   node [
     id 654
     label "Kairat Almaty"
+    competition "Premier Liga"
   ]
   node [
     id 655
     label "Al-Wasl"
+    competition "UAE Arabian Gulf League"
   ]
   node [
     id 656
     label "APO Levadiakos"
+    competition "Super League"
   ]
   node [
     id 657
     label "Karab&#252;kspor"
+    competition "1.Lig"
   ]
   node [
     id 658
     label "Hilal"
+    competition "Saudi Professional League"
   ]
   node [
     id 659
     label "Cagliari Calcio"
+    competition "Serie A"
   ]
   node [
     id 660
     label "RSC Anderlecht"
+    competition "Jupiler Pro League"
   ]
   node [
     id 661
     label "Avellino"
+    competition "Serie B"
   ]
   node [
     id 662
     label "Dundee FC"
+    competition "Scottish Premiership"
   ]
   node [
     id 663
     label "Birmingham"
+    competition "Championship"
   ]
   node [
     id 664
     label "Baniyas SC"
+    competition "UAE Arabian Gulf League"
   ]
   node [
     id 665
     label "Melbourne"
+    competition "A-League"
   ]
   node [
     id 666
     label "NK Olimpija"
+    competition "Prva Liga"
   ]
   node [
     id 667
     label "ND Gorica"
+    competition "Prva Liga"
   ]
   node [
     id 668
     label "Loko Moscow"
+    competition "Premier Liga"
   ]
   node [
     id 669
     label "PFC Beroe Stara Zagora"
+    competition "A Grupa - Championship group"
   ]
   node [
     id 670
     label "Hobro IK"
+    competition "Superligaen"
   ]
   node [
     id 671
     label "ADO Den Haag"
+    competition "Eredivisie"
   ]
   node [
     id 672
     label "Sassuolo U19"
+    competition "Campionato Primavera Girone B"
   ]
   node [
     id 673
     label "Lok. Plovdiv"
+    competition "A Grupa - Relegation group"
   ]
   node [
     id 674
     label "Halad&#225;s"
+    competition "Nemzeti Bajnoks&#225;g"
   ]
   node [
     id 675
     label "Orlando City SC"
+    competition "Major League Soccer"
   ]
   node [
     id 676
     label "Kansas"
+    competition "Major League Soccer"
   ]
   node [
     id 677
     label "Al-Gharafa"
+    competition "Qatar Stars League"
   ]
   node [
     id 678
     label "Am&#233;rica"
+    competition "Liga MX Clausura"
   ]
   node [
     id 679
     label "CA Lan&#250;s"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 680
     label "Timbers"
+    competition "Major League Soccer"
   ]
   node [
     id 681
     label "Pe&#241;arol"
+    competition "Primera Division Clausura"
   ]
   node [
     id 682
     label "Kawasaki Front."
+    competition "J. League Division 1 &#8211; Second Stage"
   ]
   node [
     id 683
     label "Real Sociedad"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 684
     label "Alav&#233;s"
+    competition "Segunda Divisi&#243;n"
   ]
   node [
     id 685
     label "Defensor"
+    competition "Primera Division Clausura"
   ]
   node [
     id 686
     label "Al-Jazira"
+    competition "UAE Arabian Gulf League"
   ]
   node [
     id 687
     label "Dinamo Moscow"
+    competition "Premier Liga"
   ]
   node [
     id 688
     label "Spartak Moscow"
+    competition "Premier Liga"
   ]
   node [
     id 689
     label "Sibir"
+    competition "1.Division"
   ]
   node [
     id 690
     label "Degerfors"
+    competition "Superettan"
   ]
   node [
     id 691
     label "Portsmouth FC"
+    competition "League Two"
   ]
   node [
     id 692
     label "Huddersfield"
+    competition "Championship"
   ]
   node [
     id 693
     label "Cardiff"
+    competition "Championship"
   ]
   node [
     id 694
     label "Heracles Almelo"
+    competition "Eredivisie"
   ]
   node [
     id 695
     label "Telstar"
+    competition "Jupiler League"
   ]
   node [
     id 696
     label "VVV-Venlo"
+    competition "Jupiler League"
   ]
   node [
     id 697
     label "ES Zarzis"
+    competition "Ligue Professionelle 1"
   ]
   node [
     id 698
     label "CA Bizertin"
+    competition "Ligue Professionelle 1"
   ]
   node [
     id 699
     label "Roda JC"
+    competition "Jupiler League"
   ]
   node [
     id 700
     label "MZ Hakka"
+    competition "China League One"
   ]
   node [
     id 701
     label "C&#243;rdoba CF"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 702
     label "Rayo Vallecano"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 703
     label "Falkirk FC"
+    competition "Scottish Championship"
   ]
   node [
     id 704
     label "Rotherham"
+    competition "Championship"
   ]
   node [
     id 705
     label "Ajaccio"
+    competition "Ligue 2"
   ]
   node [
     id 706
     label "Videoton FC"
+    competition "Nemzeti Bajnoks&#225;g"
   ]
   node [
     id 707
     label "Stade Tunisien"
+    competition "Ligue Professionelle 1"
   ]
   node [
     id 708
     label "Khaleej"
+    competition "Saudi Professional League"
   ]
   node [
     id 709
     label "Mar&#237;timo"
+    competition "Primeira Liga"
   ]
   node [
     id 710
     label "US Ben Guerdane"
+    competition "Ligue Professionelle 1"
   ]
   node [
     id 711
     label "Stade Gab&#232;sien"
+    competition "Ligue Professionelle 1"
   ]
   node [
     id 712
     label "SBV Excelsior"
+    competition "Eredivisie"
   ]
   node [
     id 713
     label "Helmond Sport"
+    competition "Jupiler League"
   ]
   node [
     id 714
     label "Carpi"
+    competition "Serie B"
   ]
   node [
     id 715
     label "Frosinone"
+    competition "Serie B"
   ]
   node [
     id 716
     label "Gimn&#224;stic"
+    competition "Segunda Divisi&#243;n B - Grupo III"
   ]
   node [
     id 717
     label "CD Lugo"
+    competition "Segunda Divisi&#243;n"
   ]
   node [
     id 718
     label "Lecce"
+    competition "Prima Divisione - Girone C"
   ]
   node [
     id 719
     label "Vicenza"
+    competition "Serie B"
   ]
   node [
     id 720
     label "Baltika"
+    competition "1.Division"
   ]
   node [
     id 721
     label "Dover Athletic"
+    competition "Conference National"
   ]
   node [
     id 722
     label "Ventspils"
+    competition "Virsliga"
   ]
   node [
     id 723
     label "Hapoel Tel Aviv"
+    competition "Ligat ha Al"
   ]
   node [
     id 724
     label "FC Flora"
+    competition "Premium Liiga"
   ]
   node [
     id 725
     label "Chindia"
+    competition "Liga II - Seria I"
   ]
   node [
     id 726
     label "KSK Heist"
+    competition "2.Division"
   ]
   node [
     id 727
     label "KFCO Beerschot"
+    competition "Aufstiegsrunde Eerste Klasse Amateurs "
   ]
   node [
     id 728
     label "Tuzlaspor"
+    competition "3.Lig Grup 1"
   ]
   node [
     id 729
     label "Kastamonu 1966"
+    competition "3.Lig Grup 3"
   ]
   node [
     id 730
     label "JS Guoxin Sainty"
+    competition "Chinese Super League"
   ]
   node [
     id 731
     label "FC Seoul"
+    competition "K-League Classic"
   ]
   node [
     id 732
     label "Getafe CF"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 733
     label "Boavista"
+    competition "Primeira Liga"
   ]
   node [
     id 734
     label "Feirense"
+    competition "Segunda Liga"
   ]
   node [
     id 735
     label "Karsiyaka"
+    competition "1.Lig"
   ]
   node [
     id 736
     label "Darica GB"
+    competition "3.Lig Grup 3"
   ]
   node [
     id 737
     label "RM Castilla"
+    competition "Segunda Divisi&#243;n B - Grupo II"
   ]
   node [
     id 738
     label "Str&#248;msgodset"
+    competition "Tippeligaen"
   ]
   node [
     id 739
     label "Rapid Wien II"
+    competition "Regionalliga Ost"
   ]
   node [
     id 740
     label "Carlisle United"
+    competition "League Two"
   ]
   node [
     id 741
     label "Man City U21"
+    competition "U21 Premier League"
   ]
   node [
     id 742
     label "B. Dortmund II"
+    competition "3.Liga"
   ]
   node [
     id 743
     label "FC Aarau"
+    competition "Raiffeisen Super League"
   ]
   node [
     id 744
     label "FC Wil 1900"
+    competition "Challenge League"
   ]
   node [
     id 745
     label "Peterborough"
+    competition "League One"
   ]
   node [
     id 746
     label "Shrewsbury"
+    competition "League Two"
   ]
   node [
     id 747
     label "Exeter City"
+    competition "League Two"
   ]
   node [
     id 748
     label "Heart of Midl."
+    competition "Scottish Championship"
   ]
   node [
     id 749
     label "Dundee United"
+    competition "Scottish Premiership"
   ]
   node [
     id 750
     label "T&#225;chira"
+    competition "Liga Venezolana Clausura"
   ]
   node [
     id 751
     label "Terek Grozny"
+    competition "Premier Liga"
   ]
   node [
     id 752
     label "Al-Arabi"
+    competition "Qatar Stars League"
   ]
   node [
     id 753
     label "Wydad AC"
+    competition "Botola Pro"
   ]
   node [
     id 754
     label "CR Al Hoceima"
+    competition "Botola Pro"
   ]
   node [
     id 755
     label "FUS Rabat"
+    competition "Botola Pro"
   ]
   node [
     id 756
     label "Hassania"
+    competition "Botola Pro"
   ]
   node [
     id 757
     label "Moghreb T&#233;touan"
+    competition "Botola Pro"
   ]
   node [
     id 758
     label "Ittihad Kalba"
+    competition "UAE Arabian Gulf League"
   ]
   node [
     id 759
     label "NK Celje "
+    competition "Prva Liga"
   ]
   node [
     id 760
     label "Newell's"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 761
     label "Atl&#233;tico-MG"
+    competition "Campeonato Brasileiro S&#233;rie A"
   ]
   node [
     id 762
     label "Man City U23"
+    competition "U21 Premier League"
   ]
   node [
     id 763
     label "LDU Quito"
+    competition "Serie A Segunda Etapa"
   ]
   node [
     id 764
     label "Columbus Crew"
+    competition "Major League Soccer"
   ]
   node [
     id 765
     label "UD Almer&#237;a"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 766
     label "S&#246;nderjyskE"
+    competition "Superligaen"
   ]
   node [
     id 767
     label "Esbjerg fB"
+    competition "Superligaen"
   ]
   node [
     id 768
     label "Riga"
+    competition "Virsliga"
   ]
   node [
     id 769
     label "Daugavpils"
+    competition "Virsliga"
   ]
   node [
     id 770
     label "Shabab"
+    competition "Saudi Professional League"
   ]
   node [
     id 771
     label "Al-Shaab"
+    competition "UAE Arabian Gulf League"
   ]
   node [
     id 772
     label "Cracovia Krak&#243;w"
+    competition "Ekstraklasa"
   ]
   node [
     id 773
     label "Termalica"
+    competition "Ekstraklasa"
   ]
   node [
     id 774
     label "ASA Tirgu Mures"
+    competition "Liga 1"
   ]
   node [
     id 775
     label "Slavia Sofia"
+    competition "A Grupa - Relegation group"
   ]
   node [
     id 776
     label "Miedz Legnica"
+    competition "1 Liga"
   ]
   node [
     id 777
     label "G&#243;rnik Zabrze"
+    competition "Ekstraklasa"
   ]
   node [
     id 778
     label "FK Krupa"
+    competition "Prva Liga RS"
   ]
   node [
     id 779
     label "Travnik"
+    competition "Premijer Liga"
   ]
   node [
     id 780
     label "Pa&#231;os Ferreira"
+    competition "Primeira Liga"
   ]
   node [
     id 781
     label "K. Offenbach"
+    competition "Regionalliga S&#252;dwest"
   ]
   node [
     id 782
     label "LASK"
+    competition "Erste Liga"
   ]
   node [
     id 783
     label "A. Klagenfurt"
+    competition "Erste Liga"
   ]
   node [
     id 784
     label "KS Samara"
+    competition "1.Division"
   ]
   node [
     id 785
     label "Villarreal CF B"
+    competition "Segunda Divisi&#243;n B - Grupo III"
   ]
   node [
     id 786
     label "Maldonado"
+    competition "Segunda Divisi&#243;n Profesional"
   ]
   node [
     id 787
     label "Indep. Medell&#237;n"
+    competition "Liga Postobon II"
   ]
   node [
     id 788
     label "Banik Ostrava"
+    competition "Gambrinus Liga"
   ]
   node [
     id 789
     label "Zamora"
+    competition "Liga Venezolana Clausura"
   ]
   node [
     id 790
     label "Lausanne-Sport"
+    competition "Challenge League"
   ]
   node [
     id 791
     label "NK Istra"
+    competition "1.HNL"
   ]
   node [
     id 792
     label "Neman Grodno"
+    competition "Wyschejschaja Liha"
   ]
   node [
     id 793
     label "FK Slutsk"
+    competition "Wyschejschaja Liha"
   ]
   node [
     id 794
     label "Nasr"
+    competition "Saudi Professional League"
   ]
   node [
     id 795
     label "Ratchaburi FC"
+    competition "Thai Premier League"
   ]
   node [
     id 796
     label "CA Tigre"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 797
     label "Everton"
+    competition "Premier League"
   ]
   node [
     id 798
     label "Farense"
+    competition "Segunda Liga"
   ]
   node [
     id 799
     label "Djurgardens IF"
+    competition "Allsvenskan"
   ]
   node [
     id 800
     label "FC Groningen"
+    competition "Eredivisie"
   ]
   node [
     id 801
     label "MK Dons"
+    competition "League One"
   ]
   node [
     id 802
     label "Kosice"
+    competition "Corgon liga"
   ]
   node [
     id 803
     label "BJ Enterprises"
+    competition "China League One"
   ]
   node [
     id 804
     label "DL Aerbin"
+    competition "China League One"
   ]
   node [
     id 805
     label "Aalesunds FK"
+    competition "Tippeligaen"
   ]
   node [
     id 806
     label "Luton Town"
+    competition "League Two"
   ]
   node [
     id 807
     label "Blackpool"
+    competition "Championship"
   ]
   node [
     id 808
     label "Botev Plovdiv"
+    competition "A Grupa - Championship group"
   ]
   node [
     id 809
     label "CC Yatai"
+    competition "Chinese Super League"
   ]
   node [
     id 810
     label "Leix&#245;es"
+    competition "Segunda Liga"
   ]
   node [
     id 811
     label "Figueirense FC"
+    competition "Campeonato Brasileiro S&#233;rie A"
   ]
   node [
     id 812
     label "Fredrikstad"
+    competition "1.Divisjon"
   ]
   node [
     id 813
     label "UTA Arad"
+    competition "Relegation Liga 1"
   ]
   node [
     id 814
     label "Atlantas"
+    competition "A Lyga"
   ]
   node [
     id 815
     label "Vancouver"
+    competition "Major League Soccer"
   ]
   node [
     id 816
     label "O'Higgins"
+    competition "Primera Divisi&#243;n Clausura"
   ]
   node [
     id 817
     label "Lechia U19"
+    competition "Centralna Liga Juniorow - Grupa Zachodnia"
   ]
   node [
     id 818
     label "Znicz Pruszkow"
+    competition "2 Liga"
   ]
   node [
     id 819
     label "Stomil"
+    competition "1 Liga"
   ]
   node [
     id 820
     label "Bolton"
+    competition "Championship"
   ]
   node [
     id 821
     label "FC Barcelona B"
+    competition "Segunda Divisi&#243;n B - Grupo III"
   ]
   node [
     id 822
     label "Buriram Utd."
+    competition "Thai Premier League"
   ]
   node [
     id 823
     label "Rostov"
+    competition "Premier Liga"
   ]
   node [
     id 824
     label "Newcastle U23"
+    competition "U21 Premier League"
   ]
   node [
     id 825
     label "Ascoli"
+    competition "Prima Divisione - B"
   ]
   node [
     id 826
     label "Pontedera"
+    competition "Prima Divisione - B"
   ]
   node [
     id 827
     label "Walsall FC"
+    competition "League One"
   ]
   node [
     id 828
     label "Tokushima Vort."
+    competition "J. League Division 2"
   ]
   node [
     id 829
     label "Kashima Antlers"
+    competition "J. League Division 1 &#8211; Second Stage"
   ]
   node [
     id 830
     label "Dinamo Tbilisi"
+    competition "Umaglesi Liga"
   ]
   node [
     id 831
     label "Nea Salamis"
+    competition "Division A"
   ]
   node [
     id 832
     label "Saburtalo"
+    competition "Umaglesi Liga"
   ]
   node [
     id 833
     label "Osmanlispor"
+    competition "1.Lig"
   ]
   node [
     id 834
     label "Ankarag&#252;c&#252;"
+    competition "2.Lig Kirmizi"
   ]
   node [
     id 835
     label "Astra Giurgiu"
+    competition "Liga 1"
   ]
   node [
     id 836
     label "Barcelona SC"
+    competition "Serie A Segunda Etapa"
   ]
   node [
     id 837
     label "Puebla"
+    competition "Liga MX Clausura"
   ]
   node [
     id 838
     label "Monarcas"
+    competition "Liga MX Clausura"
   ]
   node [
     id 839
     label "JS Kairouan"
+    competition "Ligue Professionelle 1"
   ]
   node [
     id 840
     label "Club Africain"
+    competition "Ligue Professionelle 1"
   ]
   node [
     id 841
     label "Brescia"
+    competition "Serie B"
   ]
   node [
     id 842
     label "Roma U19"
+    competition "Campionato Primavera Girone C"
   ]
   node [
     id 843
     label "Willem II"
+    competition "Eredivisie"
   ]
   node [
     id 844
     label "MVV Maastricht"
+    competition "Jupiler League"
   ]
   node [
     id 845
     label "LDU de Loja"
+    competition "Serie A Segunda Etapa"
   ]
   node [
     id 846
     label "Atlante"
+    competition "Ascenso MX Clausura"
   ]
   node [
     id 847
     label "Energie Cottbus"
+    competition "3.Liga"
   ]
   node [
     id 848
     label "Dnipro"
+    competition "Premier Liga"
   ]
   node [
     id 849
     label "Sheriff"
+    competition "Divizia Nationala"
   ]
   node [
     id 850
     label "Volyn Lutsk"
+    competition "Premier Liga"
   ]
   node [
     id 851
     label "Dinamo Zagreb"
+    competition "1.HNL"
   ]
   node [
     id 852
     label "HB Zhongji"
+    competition "China League One"
   ]
   node [
     id 853
     label "SV Sandhausen"
+    competition "2.Bundesliga"
   ]
   node [
     id 854
     label "Wisla Pulawy"
+    competition "2 Liga"
   ]
   node [
     id 855
     label "Barnsley FC"
+    competition "League One"
   ]
   node [
     id 856
     label "Sporting Gij&#243;n"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 857
     label "Krasnodar"
+    competition "Premier Liga"
   ]
   node [
     id 858
     label "Servette FC"
+    competition "Challenge League"
   ]
   node [
     id 859
     label "AS B&#233;ziers"
+    competition "Championnat National"
   ]
   node [
     id 860
     label "Viktoria Plzen"
+    competition "Gambrinus Liga"
   ]
   node [
     id 861
     label "Sheffield Utd."
+    competition "League One"
   ]
   node [
     id 862
     label "Millwall"
+    competition "Championship"
   ]
   node [
     id 863
     label "Chesterfield FC"
+    competition "League One"
   ]
   node [
     id 864
     label "KF Shkendija"
+    competition "Prva Makedonska Fudbalska Liga"
   ]
   node [
     id 865
     label "Muangthong Utd."
+    competition "Thai Premier League"
   ]
   node [
     id 866
     label "Chiangrai Utd."
+    competition "Thai Premier League"
   ]
   node [
     id 867
     label "Vitesse U19"
+    competition "A-Junioren Eredivisie"
   ]
   node [
     id 868
     label "HZ Greentown"
+    competition "Chinese Super League"
   ]
   node [
     id 869
     label "Birkirkara FC"
+    competition "Premier League"
   ]
   node [
     id 870
     label "Pohang Steelers"
+    competition "K-League Classic"
   ]
   node [
     id 871
     label "YB Funde"
+    competition "Chinese Super League"
   ]
   node [
     id 872
     label "Carrarese"
+    competition "Prima Divisione - B"
   ]
   node [
     id 873
     label "Sint-Truiden"
+    competition "Jupiler Pro League"
   ]
   node [
     id 874
     label "Nottm Forest"
+    competition "Championship"
   ]
   node [
     id 875
     label "Iraklis"
+    competition "Super League"
   ]
   node [
     id 876
     label "Cremonese"
+    competition "Prima Divisione - A"
   ]
   node [
     id 877
     label "Bourg-en-Bresse"
+    competition "Ligue 2"
   ]
   node [
     id 878
     label "Am&#233;rica-MG"
+    competition "Campeonato Brasileiro S&#233;rie B"
   ]
   node [
     id 879
     label "Amkar Perm"
+    competition "Premier Liga"
   ]
   node [
     id 880
     label "Zrinjski Mostar"
+    competition "Premijer Liga"
   ]
   node [
     id 881
     label "H&#233;rcules CF"
+    competition "Segunda Divisi&#243;n B - Grupo III"
   ]
   node [
     id 882
     label "Kashiwa Reysol"
+    competition "J. League Division 1 &#8211; Second Stage"
   ]
   node [
     id 883
     label "Atl&#233;tico-PR"
+    competition "Campeonato Brasileiro S&#233;rie A"
   ]
   node [
     id 884
     label "TuS Ennepetal"
+    competition "Oberliga Westfalen"
   ]
   node [
     id 885
     label "K&#228;pyl&#228;n"
+    competition "Kakkonen - Region S&#252;d"
   ]
   node [
     id 886
     label "Bari"
+    competition "Serie B"
   ]
   node [
     id 887
     label "Perugia"
+    competition "Serie B"
   ]
   node [
     id 888
     label "Latina Calcio"
+    competition "Serie B"
   ]
   node [
     id 889
     label "Salernitana"
+    competition "Prima Divisione - Girone C"
   ]
   node [
     id 890
     label "Ternana"
+    competition "Serie B"
   ]
   node [
     id 891
     label "Al-Ahli"
+    competition "Qatar Stars League"
   ]
   node [
     id 892
     label "Gornik Leczna"
+    competition "Ekstraklasa"
   ]
   node [
     id 893
     label "Chrobry Glogow"
+    competition "1 Liga"
   ]
   node [
     id 894
     label "Umm-Salal"
+    competition "Qatar Stars League"
   ]
   node [
     id 895
     label "FK Jablonec"
+    competition "Gambrinus Liga"
   ]
   node [
     id 896
     label "Sepahan"
+    competition "Iranian Pro League"
   ]
   node [
     id 897
     label "A. Lustenau"
+    competition "Erste Liga"
   ]
   node [
     id 898
     label "SCR Altach"
+    competition "Bundesliga"
   ]
   node [
     id 899
     label "Colchester Utd."
+    competition "League One"
   ]
   node [
     id 900
     label "Inter U19"
+    competition "Campionato Primavera Girone B"
   ]
   node [
     id 901
     label "CFR Cluj"
+    competition "Liga 1"
   ]
   node [
     id 902
     label "Parma"
+    competition "Serie A"
   ]
   node [
     id 903
     label "NMG Zhongyou"
+    competition "China League One"
   ]
   node [
     id 904
     label "BJ Renhe"
+    competition "Chinese Super League"
   ]
   node [
     id 905
     label "TOT SC"
+    competition "Thai Premier League"
   ]
   node [
     id 906
     label "Santos FC"
+    competition "Campeonato Brasileiro S&#233;rie A"
   ]
   node [
     id 907
     label "Paran&#225;"
+    competition "Campeonato Brasileiro S&#233;rie B"
   ]
   node [
     id 908
     label "TJ Quanjian"
+    competition "China League One"
   ]
   node [
     id 909
     label "Uni&#243;n Comercio"
+    competition "Torneo Descentralizado Clausura"
   ]
   node [
     id 910
     label "Adelaide United"
+    competition "A-League"
   ]
   node [
     id 911
     label "Cercle Brugge"
+    competition "Jupiler Pro League"
   ]
   node [
     id 912
     label "Viborg FF"
+    competition "1.Division"
   ]
   node [
     id 913
     label "Lommel United"
+    competition "2.Division"
   ]
   node [
     id 914
     label "ASV Geel"
+    competition "2.Division"
   ]
   node [
     id 915
     label "Djurgardens U21"
+    competition "Folksam U21 Allsvenskan Norra"
   ]
   node [
     id 916
     label "Schalke 04 U19"
+    competition "A-Jgd. BL West"
   ]
   node [
     id 917
     label "Pusk&#225;s AFC"
+    competition "Nemzeti Bajnoks&#225;g"
   ]
   node [
     id 918
     label "&#218;jpest FC"
+    competition "Nemzeti Bajnoks&#225;g"
   ]
   node [
     id 919
     label "Sundsvall"
+    competition "Allsvenskan"
   ]
   node [
     id 920
     label "Maccabi Netanya"
+    competition "Ligat ha Al"
   ]
   node [
     id 921
     label "Pro Vercelli"
+    competition "Serie B"
   ]
   node [
     id 922
     label "Malm&#246; U19"
+    competition "U19 Allsvenskan S&#246;dra"
   ]
   node [
     id 923
     label "FC Dordrecht"
+    competition "Eredivisie"
   ]
   node [
     id 924
     label "Gillingham FC"
+    competition "League One"
   ]
   node [
     id 925
     label "Belenenses"
+    competition "Primeira Liga"
   ]
   node [
     id 926
     label "Atl&#233;tico Huila"
+    competition "Liga Postobon II"
   ]
   node [
     id 927
     label "AD Alcorc&#243;n"
+    competition "Segunda Divisi&#243;n"
   ]
   node [
     id 928
     label "Argentinos"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 929
     label "Incheon Utd."
+    competition "K-League Classic"
   ]
   node [
     id 930
     label "Zimbru Chisinau"
+    competition "Divizia Nationala"
   ]
   node [
     id 931
     label "TSV Meerbusch"
+    competition "Oberliga Niederrhein"
   ]
   node [
     id 932
     label "Wuppertaler SV"
+    competition "Regionalliga West"
   ]
   node [
     id 933
     label "Vit&#243;ria Set&#250;bal"
+    competition "Primeira Liga"
   ]
   node [
     id 934
     label "NK Lokomotiva"
+    competition "1.HNL"
   ]
   node [
     id 935
     label "Cibalia"
+    competition "2.HNL"
   ]
   node [
     id 936
     label "FC Ashdod"
+    competition "Ligat ha Al"
   ]
   node [
     id 937
     label "Kalmar"
+    competition "Allsvenskan"
   ]
   node [
     id 938
     label "Braga B"
+    competition "Segunda Liga"
   ]
   node [
     id 939
     label "FK Kuk&#235;si"
+    competition "Kategoria Superiore"
   ]
   node [
     id 940
     label "Ittehad"
+    competition "Egyptian Premier League"
   ]
   node [
     id 941
     label "Petrojet"
+    competition "Egyptian Premier League"
   ]
   node [
     id 942
     label "Norrk&#246;ping"
+    competition "Allsvenskan"
   ]
   node [
     id 943
     label "KR Reykjav&#237;k"
+    competition "Pepsideild"
   ]
   node [
     id 944
     label "V&#237;kingur"
+    competition "Pepsideild"
   ]
   node [
     id 945
     label "Mafra"
+    competition "Segunda Liga"
   ]
   node [
     id 946
     label "De Graafschap"
+    competition "Eredivisie"
   ]
   node [
     id 947
     label "Raith Rovers"
+    competition "Scottish Championship"
   ]
   node [
     id 948
     label "Rah Ahan"
+    competition "Iranian Pro League"
   ]
   node [
     id 949
     label "Qarabag Agdam"
+    competition "Premyer Liqasi"
   ]
   node [
     id 950
     label "Porto B"
+    competition "Segunda Liga"
   ]
   node [
     id 951
     label "RSC Charleroi"
+    competition "Jupiler Pro League"
   ]
   node [
     id 952
     label "Suwon Bluewings"
+    competition "K-League Classic"
   ]
   node [
     id 953
     label "Jeju Utd."
+    competition "K-League Classic"
   ]
   node [
     id 954
     label "AC Horsens"
+    competition "1.Division"
   ]
   node [
     id 955
     label "RW Essen"
+    competition "Regionalliga West"
   ]
   node [
     id 956
     label "Viktoria K&#246;ln"
+    competition "Regionalliga West"
   ]
   node [
     id 957
     label "F91 Dudelange"
+    competition "BGL Ligue"
   ]
   node [
     id 958
     label "Jeunesse Esch"
+    competition "BGL Ligue"
   ]
   node [
     id 959
     label "FAC"
+    competition "Erste Liga"
   ]
   node [
     id 960
     label "DL Yifang"
+    competition "China League One"
   ]
   node [
     id 961
     label "Bradford City"
+    competition "League One"
   ]
   node [
     id 962
     label "Morecambe FC"
+    competition "League Two"
   ]
   node [
     id 963
     label "Partick Thistle"
+    competition "Scottish Premiership"
   ]
   node [
     id 964
     label "Lyngby BK"
+    competition "1.Division"
   ]
   node [
     id 965
     label "Ajax U21"
+    competition "Jupiler League"
   ]
   node [
     id 966
     label "Willem II U21"
+    competition "Beloften Eredivisie"
   ]
   node [
     id 967
     label "Platanias"
+    competition "Super League"
   ]
   node [
     id 968
     label "Tom Tomsk"
+    competition "1.Division"
   ]
   node [
     id 969
     label "Ural"
+    competition "Premier Liga"
   ]
   node [
     id 970
     label "Arezzo"
+    competition "Prima Divisione - A"
   ]
   node [
     id 971
     label "Ipswich"
+    competition "Championship"
   ]
   node [
     id 972
     label "Tskhinvali"
+    competition "Umaglesi Liga"
   ]
   node [
     id 973
     label "Lucchese"
+    competition "Prima Divisione - B"
   ]
   node [
     id 974
     label "D. Calarasi"
+    competition "Relegation Liga 1"
   ]
   node [
     id 975
     label "FK Varnsdorf"
+    competition "Druha Liga"
   ]
   node [
     id 976
     label "FK Teplice"
+    competition "Gambrinus Liga"
   ]
   node [
     id 977
     label "Al-Rayyan"
+    competition "Qatar Stars League"
   ]
   node [
     id 978
     label "CA V&#233;lez"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 979
     label "Al-Shabab"
+    competition "UAE Arabian Gulf League"
   ]
   node [
     id 980
     label "WH Zall"
+    competition "China League One"
   ]
   node [
     id 981
     label "Everton U21"
+    competition "U21 Premier League"
   ]
   node [
     id 982
     label "Hamilton Acad."
+    competition "Scottish Premiership"
   ]
   node [
     id 983
     label "CA F&#233;nix"
+    competition "Primera Division Clausura"
   ]
   node [
     id 984
     label "Western Sydney"
+    competition "A-League"
   ]
   node [
     id 985
     label "Lienden"
+    competition "Topklasse Zondag"
   ]
   node [
     id 986
     label "Mladost"
+    competition "SuperLiga"
   ]
   node [
     id 987
     label "Stalowa Wola"
+    competition "2 Liga"
   ]
   node [
     id 988
     label "Colorado"
+    competition "Major League Soccer"
   ]
   node [
     id 989
     label "NY Red Bulls"
+    competition "Major League Soccer"
   ]
   node [
     id 990
     label "UdeConce"
+    competition "Primera Divisi&#243;n Clausura"
   ]
   node [
     id 991
     label "Patronato"
+    competition "Primera Divisi&#243;n"
   ]
   node [
     id 992
     label "Valletta"
+    competition "Premier League"
   ]
   node [
     id 993
     label "QFC"
+    competition "Premier League"
   ]
   node [
     id 994
     label "Halmstad"
+    competition "Allsvenskan"
   ]
   node [
     id 995
     label "Kilmarnock FC"
+    competition "Scottish Premiership"
   ]
   node [
     id 996
     label "Holstein Kiel"
+    competition "3.Liga"
   ]
   node [
     id 997
     label "Northampt. Town"
+    competition "League Two"
   ]
   node [
     id 998
     label "&#214;rebro SK"
+    competition "Allsvenskan"
   ]
   node [
     id 999
     label "Kyoto Sanga"
+    competition "J. League Division 2"
   ]
   node [
     id 1000
     label "FC Liefering"
+    competition "Erste Liga"
   ]
   node [
     id 1001
     label "Sampaio Corr&#234;a"
+    competition "Campeonato Brasileiro S&#233;rie B"
   ]
   node [
     id 1002
     label "Korona Kielce"
+    competition "Ekstraklasa"
   ]
   node [
     id 1003
     label "Juventud"
+    competition "Primera Division Clausura"
   ]
   node [
     id 1004
     label "EC Bahia"
+    competition "Campeonato Brasileiro S&#233;rie B"
   ]
   node [
     id 1005
     label "CE Sabadell "
+    competition "Segunda Divisi&#243;n"
   ]
   node [
     id 1006
     label "RCD Mallorca"
+    competition "Segunda Divisi&#243;n"
   ]
   node [
     id 1007
     label "Santa Cruz"
+    competition "Campeonato Brasileiro S&#233;rie B"
   ]
   node [
     id 1008
     label "Derry City"
+    competition "League of Ireland"
   ]
   node [
     id 1009
     label "OH Leuven"
+    competition "Jupiler Pro League"
   ]
   node [
     id 1010
     label "Hibernian FC"
+    competition "Scottish Championship"
   ]
   node [
     id 1011
     label "FC Z&#252;rich U21"
+    competition "1.Liga Promotion "
   ]
   node [
     id 1012
     label "M'gladbach II"
+    competition "Regionalliga West"
   ]
   node [
     id 1013
     label "MC Algier"
+    competition "Ligue Professionnelle 1"
   ]
   node [
     id 1014
     label "CR Belouizdad"
+    competition "Ligue Professionnelle 1"
   ]
   node [
     id 1015
     label "CS Hammam-Lif"
+    competition "Ligue Professionelle 1"
   ]
   node [
     id 1016
     label "SKN St. P&#246;lten"
+    competition "Erste Liga"
   ]
   node [
     id 1017
     label "Leones Negros"
+    competition "Liga MX Clausura"
   ]
   node [
     id 1018
     label "Olymp. Volos"
+    competition "Football League Nord"
   ]
   node [
     id 1019
     label "Arbroath"
+    competition "Scottish League Two"
   ]
   node [
     id 1020
     label "Juve Stabia"
+    competition "Prima Divisione - Girone C"
   ]
   node [
     id 1021
     label "Slo. Bratislava"
+    competition "Corgon liga"
   ]
   node [
     id 1022
     label "Tottenham U23"
+    competition "U21 Premier League"
   ]
   node [
     id 1023
     label "Helsingborg"
+    competition "Allsvenskan"
   ]
   node [
     id 1024
     label "Chicago Fire"
+    competition "Major League Soccer"
   ]
   node [
     id 1025
     label "PEC Zwolle"
+    competition "Eredivisie"
   ]
   node [
     id 1026
     label "Tractor Sazi"
+    competition "Iranian Pro League"
   ]
   node [
     id 1027
     label "Karpaty"
+    competition "Premier Liga"
   ]
   node [
     id 1028
     label "C.A. Torque"
+    competition "Segunda Divisi&#243;n Profesional"
   ]
   node [
     id 1029
     label "Kaizer Chiefs"
+    competition "ABSA Premiership"
   ]
   node [
     id 1030
     label "Chippa United"
+    competition "ABSA Premiership"
   ]
   node [
     id 1031
     label "Bucaspor"
+    competition "1.Lig"
   ]
   node [
     id 1032
     label "KF La&#231;i"
+    competition "Kategoria Superiore"
   ]
   node [
     id 1033
     label "Hatayspor"
+    competition "2.Lig Kirmizi"
   ]
   node [
     id 1034
     label "Diyarbekirspor"
+    competition "3.Lig Grup 2"
   ]
   node [
     id 1035
     label "Giresunspor"
+    competition "1.Lig"
   ]
   node [
     id 1036
     label "EGS Gafsa"
+    competition "Ligue Professionelle 1"
   ]
   node [
     id 1037
     label "Falkenberg"
+    competition "Allsvenskan"
   ]
   node [
     id 1038
     label "Feyenoord U19"
+    competition "A-Junioren Eredivisie"
   ]
   node [
     id 1039
     label "Brighton"
+    competition "Championship"
   ]
   node [
     id 1040
     label "Indep. Santa Fe"
+    competition "Liga Postobon II"
   ]
   node [
     id 1041
     label "Chievo U19"
+    competition "Campionato Primavera Girone B"
   ]
   node [
     id 1042
     label "Randers FC"
+    competition "Superligaen"
   ]
   node [
     id 1043
     label "FC Wacker"
+    competition "Erste Liga"
   ]
   node [
     id 1044
     label "Metalurg Skopje"
+    competition "Prva Makedonska Fudbalska Liga"
   ]
   node [
     id 1045
     label "CS Constantine"
+    competition "Ligue Professionnelle 1"
   ]
   node [
     id 1046
     label "Skonto Riga"
+    competition "Virsliga"
   ]
   node [
     id 1047
     label "DL Transcen."
+    competition "China League Two"
   ]
   node [
     id 1048
     label "FC Winterthur"
+    competition "Challenge League"
   ]
   node [
     id 1049
     label "Junior FC"
+    competition "Liga Postobon II"
   ]
   node [
     id 1050
     label "Panetolikos"
+    competition "Super League"
   ]
   node [
     id 1051
     label "Sydney FC"
+    competition "A-League"
   ]
   node [
     id 1052
     label "Rad"
+    competition "SuperLiga"
   ]
   node [
     id 1053
     label "Almere City"
+    competition "Jupiler League"
   ]
   node [
     id 1054
     label "Hamburger SV II"
+    competition "Regionalliga Nord"
   ]
   node [
     id 1055
     label "Virtus Lanciano"
+    competition "Serie B"
   ]
   node [
     id 1056
     label "Envigado"
+    competition "Liga Postobon II"
   ]
   node [
     id 1057
     label "Naftan"
+    competition "Wyschejschaja Liha"
   ]
   node [
     id 1058
     label "Soligorsk"
+    competition "Wyschejschaja Liha"
   ]
   node [
     id 1059
     label "Dynamo Dresden"
+    competition "3.Liga"
   ]
   node [
     id 1060
     label "Gamba Osaka"
+    competition "J. League Division 1 &#8211; Second Stage"
   ]
   node [
     id 1061
     label "Crici&#250;ma EC"
+    competition "Campeonato Brasileiro S&#233;rie B"
   ]
   node [
     id 1062
     label "SC Wiedenbr&#252;ck"
+    competition "Regionalliga West"
   ]
   node [
     id 1063
     label "Burton Albion"
+    competition "League Two"
   ]
   node [
     id 1064
     label "Tours FC"
+    competition "Ligue 2"
   ]
   node [
     id 1065
     label "PAE Veria"
+    competition "Super League"
   ]
   node [
     id 1066
     label "FC Lugano"
+    competition "Challenge League"
   ]
   node [
     id 1067
     label "Novara"
+    competition "Prima Divisione - A"
   ]
   node [
     id 1068
     label "FC Luzern"
+    competition "Raiffeisen Super League"
   ]
   node [
     id 1069
     label "FC Montr&#233;al"
+    competition "USL Pro"
   ]
   node [
     id 1070
     label "QD Jonoon"
+    competition "China League One"
   ]
   node [
     id 1071
     label "Vissel Kobe"
+    competition "J. League Division 1 &#8211; Second Stage"
   ]
   node [
     id 1072
     label "Shakhtar D."
+    competition "Premier Liga"
   ]
   node [
     id 1073
     label "Gr. F&#252;rth U17"
+    competition "B-Jgd. BL S&#252;d/S&#252;dwest "
   ]
   node [
     id 1074
     label "FC Bayern U17"
+    competition "B-Jgd. BL S&#252;d/S&#252;dwest "
   ]
   node [
     id 1075
     label "&#214;stersund"
+    competition "Superettan"
   ]
   node [
     id 1076
     label "Syrianska"
+    competition "Superettan"
   ]
   node [
     id 1077
     label "CD Numancia"
+    competition "Segunda Divisi&#243;n"
   ]
   node [
     id 1078
     label "H. Beer Sheva"
+    competition "Ligat ha Al"
   ]
   node [
     id 1079
     label "Gyirm&#243;t FC"
+    competition "Nemzeti Bajnoks&#225;g II"
   ]
   node [
     id 1080
     label "Zwettl"
+    competition "1. Landesliga Nieder&#246;sterreich"
   ]
   node [
     id 1081
     label "Jagodina"
+    competition "SuperLiga"
   ]
   node [
     id 1082
     label "Orduspor"
+    competition "1.Lig"
   ]
   node [
     id 1083
     label "SV Kapfenberg"
+    competition "Erste Liga"
   ]
   node [
     id 1084
     label "Fidelis Andria"
+    competition "Prima Divisione - Girone C"
   ]
   node [
     id 1085
     label "RW Oberhausen"
+    competition "Regionalliga West"
   ]
   node [
     id 1086
     label "Hellas U19"
+    competition "Campionato Primavera Girone B"
   ]
   node [
     id 1087
     label "Genoa U19"
+    competition "Campionato Primavera Girone A"
   ]
   node [
     id 1088
     label "C&#225;diz CF"
+    competition "Segunda Divisi&#243;n B - Grupo IV"
   ]
   node [
     id 1089
     label "Millonarios"
+    competition "Liga Postobon II"
   ]
   node [
     id 1090
     label "Orlando Pirates"
+    competition "ABSA Premiership"
   ]
   node [
     id 1091
     label "Ross County"
+    competition "Scottish Premiership"
   ]
   node [
     id 1092
     label "Barletta"
+    competition "Prima Divisione - Girone C"
   ]
   node [
     id 1093
     label "AC Pisa"
+    competition "Prima Divisione - B"
   ]
   node [
     id 1094
     label "PSV U21"
+    competition "Jupiler League"
   ]
   node [
     id 1095
     label "B. Jerusalem"
+    competition "Ligat ha Al"
   ]
   node [
     id 1096
     label "Sandefjord"
+    competition "Tippeligaen"
   ]
   node [
     id 1097
     label "Radnik Bijelj."
+    competition "Premijer Liga"
   ]
   node [
     id 1098
     label "FC Volendam"
+    competition "Jupiler League"
   ]
   node [
     id 1099
     label "White Star"
+    competition "2.Division"
   ]
   node [
     id 1100
     label "Chapecoense"
+    competition "Campeonato Brasileiro S&#233;rie A"
   ]
   node [
     id 1101
     label "GS Consolat M."
+    competition "Championnat National"
   ]
   node [
     id 1102
     label "Mlad&#225; Boleslav"
+    competition "Gambrinus Liga"
   ]
   node [
     id 1103
     label "Fleetwood Town"
+    competition "League One"
   ]
   node [
     id 1104
     label "Pogon Siedlce"
+    competition "1 Liga"
   ]
   node [
     id 1105
     label "Toronto FC"
+    competition "Major League Soccer"
   ]
   node [
     id 1106
     label "FC Brasov"
+    competition "Liga 1"
   ]
   node [
     id 1107
     label "C. Piatra Neamt"
+    competition "Liga 1"
   ]
   node [
     id 1108
     label "Gaz Metan"
+    competition "Liga 1"
   ]
   node [
     id 1109
     label "Carl Zeiss Jena"
+    competition "Regionalliga Nordost"
   ]
   node [
     id 1110
     label "Bryne FK"
+    competition "1.Divisjon"
   ]
   node [
     id 1111
     label "All Boys"
+    competition "Primera B Nacional"
   ]
   node [
     id 1112
     label "FC Chiasso"
+    competition "Challenge League"
   ]
   node [
     id 1113
     label "FC Koper"
+    competition "Prva Liga"
   ]
   node [
     id 1114
     label "Kiryat Shmona"
+    competition "Ligat ha Al"
   ]
   node [
     id 1115
     label "Glentoran"
+    competition "Premier League Playoff Europa League"
   ]
   node [
     id 1116
     label "Cizrespor 2010"
+    competition "3.Lig Grup 1"
   ]
   node [
     id 1117
     label "Cine Madranspor"
+    competition "3.Lig Grup 3"
   ]
   node [
     id 1118
     label "Velbert 02"
+    competition "Regionalliga West"
   ]
   node [
     id 1119
     label "Urawa Reds"
+    competition "J. League Division 1 &#8211; Second Stage"
   ]
   node [
     id 1120
     label "Royal Antwerp"
+    competition "2.Division"
   ]
   node [
     id 1121
     label "Foggia"
+    competition "Prima Divisione - Girone C"
   ]
   node [
     id 1122
     label "FK Senica"
+    competition "Corgon liga"
   ]
   node [
     id 1123
     label "FK Minsk"
+    competition "Wyschejschaja Liha"
   ]
   edge [
     source 0
