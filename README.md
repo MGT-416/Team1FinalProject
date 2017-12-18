@@ -17,12 +17,12 @@ To answer these questions, we will mainly rely on centralities measures, like th
 - "0. Project Report.ipynb"
 
 
-** Data scraping and network creation**
+**Data scraping and network creation**
 - "1. Build Data.ipynb"
 - "2. Managers history.ipynb"
 
 
-** Analysis**
+**Analysis**
 - "3. Transfers vs Loan vs Free.ipynb"
    
    - _Centralities study (section 5.1)_
